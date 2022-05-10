@@ -1,0 +1,236 @@
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.73.2.125:41501'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.73.2.125:36953'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.73.2.125:43289'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.73.2.125:37611'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.73.2.125:43755'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.73.2.125:32777'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.73.2.125:39419'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.73.2.125:36244'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.73.2.125:36109'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.73.2.125:42019'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.73.2.125:33791'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.73.2.125:35187'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.73.2.125:44965'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.73.2.125:44458'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.73.2.125:46069'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.73.2.125:34762'
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-z45l24fl', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-xg5fatai', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-3dgcpx_o', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-3ls5jaha', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-m8gcqyqc', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-aqnpr5ja', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-6qwrpikv', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-lakh5bw8', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-mdxp1_jt', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-aiqjd2jm', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-hgvx5nr4', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-jug8l555', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-z5nxnyb3', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-stkr_nb4', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-9vk752fi', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-vv4hasjn', purging
+distributed.worker - INFO -       Start worker at:    tcp://10.73.2.125:33637
+distributed.worker - INFO -       Start worker at:    tcp://10.73.2.125:38913
+distributed.worker - INFO -       Start worker at:    tcp://10.73.2.125:41324
+distributed.worker - INFO -       Start worker at:    tcp://10.73.2.125:33418
+distributed.worker - INFO -          Listening to:    tcp://10.73.2.125:33637
+distributed.worker - INFO -       Start worker at:    tcp://10.73.2.125:42020
+distributed.worker - INFO -          Listening to:    tcp://10.73.2.125:38913
+distributed.worker - INFO -          Listening to:    tcp://10.73.2.125:41324
+distributed.worker - INFO -          Listening to:    tcp://10.73.2.125:33418
+distributed.worker - INFO -          dashboard at:          10.73.2.125:32956
+distributed.worker - INFO -       Start worker at:    tcp://10.73.2.125:34195
+distributed.worker - INFO -          Listening to:    tcp://10.73.2.125:42020
+distributed.worker - INFO -          dashboard at:          10.73.2.125:44063
+distributed.worker - INFO -          dashboard at:          10.73.2.125:32949
+distributed.worker - INFO - Waiting to connect to:    tcp://10.73.1.161:45639
+distributed.worker - INFO -       Start worker at:    tcp://10.73.2.125:43759
+distributed.worker - INFO -          Listening to:    tcp://10.73.2.125:34195
+distributed.worker - INFO -          dashboard at:          10.73.2.125:34188
+distributed.worker - INFO - Waiting to connect to:    tcp://10.73.1.161:45639
+distributed.worker - INFO -          dashboard at:          10.73.2.125:40096
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Waiting to connect to:    tcp://10.73.1.161:45639
+distributed.worker - INFO -          dashboard at:          10.73.2.125:43400
+distributed.worker - INFO - Waiting to connect to:    tcp://10.73.1.161:45639
+distributed.worker - INFO -          Listening to:    tcp://10.73.2.125:43759
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Waiting to connect to:    tcp://10.73.1.161:45639
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Waiting to connect to:    tcp://10.73.1.161:45639
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -          dashboard at:          10.73.2.125:40739
+distributed.worker - INFO -               Threads:                          2
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:    tcp://10.73.2.125:37952
+distributed.worker - INFO - Waiting to connect to:    tcp://10.73.1.161:45639
+distributed.worker - INFO -                Memory:                    8.25 GB
+distributed.worker - INFO -               Threads:                          2
+distributed.worker - INFO -               Threads:                          2
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Local Directory: /scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-_xhxjtlj
+distributed.worker - INFO -          Listening to:    tcp://10.73.2.125:37952
+distributed.worker - INFO -                Memory:                    8.25 GB
+distributed.worker - INFO -               Threads:                          2
+distributed.worker - INFO -               Threads:                          2
+distributed.worker - INFO -                Memory:                    8.25 GB
+distributed.worker - INFO -          dashboard at:          10.73.2.125:45861
+distributed.worker - INFO -       Local Directory: /scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-q1ald53r
+distributed.worker - INFO -               Threads:                          2
+distributed.worker - INFO -                Memory:                    8.25 GB
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          2
+distributed.worker - INFO -       Local Directory: /scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-rr1ax2mz
+distributed.worker - INFO -                Memory:                    8.25 GB
+distributed.worker - INFO - Waiting to connect to:    tcp://10.73.1.161:45639
+distributed.worker - INFO -       Local Directory: /scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-fvxq238w
+distributed.worker - INFO -                Memory:                    8.25 GB
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -                Memory:                    8.25 GB
+distributed.worker - INFO -       Local Directory: /scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-ldnmq8mb
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Local Directory: /scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-4eh40zix
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Local Directory: /scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-prhfx69f
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:    tcp://10.73.2.125:34504
+distributed.worker - INFO -       Start worker at:    tcp://10.73.2.125:33805
+distributed.worker - INFO -       Start worker at:    tcp://10.73.2.125:33232
+distributed.worker - INFO -               Threads:                          2
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -          Listening to:    tcp://10.73.2.125:33805
+distributed.worker - INFO -          Listening to:    tcp://10.73.2.125:34504
+distributed.worker - INFO -                Memory:                    8.25 GB
+distributed.worker - INFO -          Listening to:    tcp://10.73.2.125:33232
+distributed.worker - INFO -       Start worker at:    tcp://10.73.2.125:45331
+distributed.worker - INFO -          dashboard at:          10.73.2.125:44550
+distributed.worker - INFO -       Local Directory: /scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-o2iz1478
+distributed.worker - INFO -          dashboard at:          10.73.2.125:43150
+distributed.worker - INFO -          dashboard at:          10.73.2.125:43191
+distributed.worker - INFO - Waiting to connect to:    tcp://10.73.1.161:45639
+distributed.worker - INFO -          Listening to:    tcp://10.73.2.125:45331
+distributed.worker - INFO - Waiting to connect to:    tcp://10.73.1.161:45639
+distributed.worker - INFO -       Start worker at:    tcp://10.73.2.125:36480
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Waiting to connect to:    tcp://10.73.1.161:45639
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -          dashboard at:          10.73.2.125:37420
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:    tcp://10.73.2.125:33252
+distributed.worker - INFO -          Listening to:    tcp://10.73.2.125:36480
+distributed.worker - INFO - Waiting to connect to:    tcp://10.73.1.161:45639
+distributed.worker - INFO -               Threads:                          2
+distributed.worker - INFO -       Start worker at:    tcp://10.73.2.125:35639
+distributed.worker - INFO -               Threads:                          2
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -          dashboard at:          10.73.2.125:34138
+distributed.worker - INFO -                Memory:                    8.25 GB
+distributed.worker - INFO -               Threads:                          2
+distributed.worker - INFO -          Listening to:    tcp://10.73.2.125:33252
+distributed.worker - INFO -                Memory:                    8.25 GB
+distributed.worker - INFO - Waiting to connect to:    tcp://10.73.1.161:45639
+distributed.worker - INFO -       Local Directory: /scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-iihh2l37
+distributed.worker - INFO -          Listening to:    tcp://10.73.2.125:35639
+distributed.worker - INFO -                Memory:                    8.25 GB
+distributed.worker - INFO -               Threads:                          2
+distributed.worker - INFO -       Local Directory: /scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-9n1g0kf_
+distributed.worker - INFO -          dashboard at:          10.73.2.125:44501
+distributed.worker - INFO -       Local Directory: /scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-tte4hjkv
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -          dashboard at:          10.73.2.125:36410
+distributed.worker - INFO -                Memory:                    8.25 GB
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Waiting to connect to:    tcp://10.73.1.161:45639
+distributed.worker - INFO -       Start worker at:    tcp://10.73.2.125:39365
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Local Directory: /scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-o7s2s551
+distributed.worker - INFO - Waiting to connect to:    tcp://10.73.1.161:45639
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          2
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -          Listening to:    tcp://10.73.2.125:39365
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -                Memory:                    8.25 GB
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -          dashboard at:          10.73.2.125:42293
+distributed.worker - INFO -       Local Directory: /scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-fstxlpvt
+distributed.worker - INFO -               Threads:                          2
+distributed.worker - INFO - Waiting to connect to:    tcp://10.73.1.161:45639
+distributed.worker - INFO -               Threads:                          2
+distributed.worker - INFO -                Memory:                    8.25 GB
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -                Memory:                    8.25 GB
+distributed.worker - INFO -       Local Directory: /scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-huzf2nei
+distributed.worker - INFO -       Local Directory: /scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-tcw4wrsz
+distributed.worker - INFO -               Threads:                          2
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -                Memory:                    8.25 GB
+distributed.worker - INFO -       Local Directory: /scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-anlgf4pa
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:    tcp://10.73.1.161:45639
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:    tcp://10.73.1.161:45639
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:    tcp://10.73.1.161:45639
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:    tcp://10.73.1.161:45639
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:    tcp://10.73.1.161:45639
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:    tcp://10.73.1.161:45639
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:    tcp://10.73.1.161:45639
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:    tcp://10.73.1.161:45639
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:    tcp://10.73.1.161:45639
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:    tcp://10.73.1.161:45639
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:    tcp://10.73.1.161:45639
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:    tcp://10.73.1.161:45639
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:    tcp://10.73.1.161:45639
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:    tcp://10.73.1.161:45639
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:    tcp://10.73.1.161:45639
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:    tcp://10.73.1.161:45639
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.core - INFO - Event loop was unresponsive in Worker for 4.68s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 4.70s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 4.70s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 4.69s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 4.69s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 4.69s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 4.69s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 4.68s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 4.69s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 4.70s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 4.70s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 4.69s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.

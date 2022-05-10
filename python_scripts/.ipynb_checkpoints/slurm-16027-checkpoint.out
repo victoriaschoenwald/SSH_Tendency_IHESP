@@ -1,0 +1,57 @@
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.73.3.45:40000'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.73.3.45:41691'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.73.3.45:39145'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.73.3.45:38247'
+distributed.worker - INFO -       Start worker at:     tcp://10.73.3.45:34901
+distributed.worker - INFO -          Listening to:     tcp://10.73.3.45:34901
+distributed.worker - INFO -       Start worker at:     tcp://10.73.3.45:46344
+distributed.worker - INFO -          dashboard at:           10.73.3.45:46625
+distributed.worker - INFO - Waiting to connect to:    tcp://10.73.3.229:45438
+distributed.worker - INFO -          Listening to:     tcp://10.73.3.45:46344
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -          dashboard at:           10.73.3.45:34357
+distributed.worker - INFO -               Threads:                          2
+distributed.worker - INFO -                Memory:                    8.75 GB
+distributed.worker - INFO - Waiting to connect to:    tcp://10.73.3.229:45438
+distributed.worker - INFO -       Local Directory: /scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-bo_unk0f
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          2
+distributed.worker - INFO -                Memory:                    8.75 GB
+distributed.worker - INFO -       Local Directory: /scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-gz8_l_2d
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:     tcp://10.73.3.45:42644
+distributed.worker - INFO -          Listening to:     tcp://10.73.3.45:42644
+distributed.worker - INFO -          dashboard at:           10.73.3.45:46356
+distributed.worker - INFO - Waiting to connect to:    tcp://10.73.3.229:45438
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          2
+distributed.worker - INFO -                Memory:                    8.75 GB
+distributed.worker - INFO -       Local Directory: /scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-unp0nycy
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:     tcp://10.73.3.45:39685
+distributed.worker - INFO -          Listening to:     tcp://10.73.3.45:39685
+distributed.worker - INFO -          dashboard at:           10.73.3.45:37358
+distributed.worker - INFO - Waiting to connect to:    tcp://10.73.3.229:45438
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          2
+distributed.worker - INFO -                Memory:                    8.75 GB
+distributed.worker - INFO -       Local Directory: /scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-y1n6j0ib
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:    tcp://10.73.3.229:45438
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:    tcp://10.73.3.229:45438
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:    tcp://10.73.3.229:45438
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:    tcp://10.73.3.229:45438
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+slurmstepd: error: *** JOB 16027 ON c557 CANCELLED AT 2021-03-30T15:06:06 ***
+distributed.worker - INFO - Stopping worker at tcp://10.73.3.45:39685
+distributed.worker - INFO - Stopping worker at tcp://10.73.3.45:34901
+distributed.worker - INFO - Stopping worker at tcp://10.73.3.45:42644
+distributed.worker - INFO - Stopping worker at tcp://10.73.3.45:46344

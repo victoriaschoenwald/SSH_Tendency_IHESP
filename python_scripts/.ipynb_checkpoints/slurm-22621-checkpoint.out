@@ -1,0 +1,1871 @@
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.73.2.125:43574'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.73.2.125:38717'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.73.2.125:38728'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.73.2.125:44777'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.73.2.125:39194'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.73.2.125:41074'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.73.2.125:34206'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.73.2.125:46861'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.73.2.125:45273'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.73.2.125:43791'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.73.2.125:37832'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.73.2.125:38916'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.73.2.125:41046'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.73.2.125:45181'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.73.2.125:37144'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.73.2.125:46238'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.73.2.125:41021'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.73.2.125:35656'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.73.2.125:45535'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.73.2.125:43237'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.73.2.125:37990'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.73.2.125:33331'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.73.2.125:46842'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.73.2.125:41142'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.73.2.125:44076'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.73.2.125:38395'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.73.2.125:35402'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.73.2.125:33141'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.73.2.125:42194'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.73.2.125:34694'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.73.2.125:41682'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.73.2.125:42165'
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-rr1ax2mz', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-9n1g0kf_', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-_xhxjtlj', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-anlgf4pa', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-huzf2nei', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-tcw4wrsz', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-prhfx69f', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-ldnmq8mb', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-fvxq238w', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-q1ald53r', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-fstxlpvt', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-o2iz1478', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-iihh2l37', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-4eh40zix', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-tte4hjkv', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-o7s2s551', purging
+distributed.worker - INFO -       Start worker at:    tcp://10.73.2.125:41677
+distributed.worker - INFO -       Start worker at:    tcp://10.73.2.125:44809
+distributed.worker - INFO -       Start worker at:    tcp://10.73.2.125:36803
+distributed.worker - INFO -       Start worker at:    tcp://10.73.2.125:43733
+distributed.worker - INFO -       Start worker at:    tcp://10.73.2.125:40300
+distributed.worker - INFO -       Start worker at:    tcp://10.73.2.125:33194
+distributed.worker - INFO -       Start worker at:    tcp://10.73.2.125:35956
+distributed.worker - INFO -          Listening to:    tcp://10.73.2.125:41677
+distributed.worker - INFO -          Listening to:    tcp://10.73.2.125:35956
+distributed.worker - INFO -          Listening to:    tcp://10.73.2.125:40300
+distributed.worker - INFO -          dashboard at:          10.73.2.125:44723
+distributed.worker - INFO -       Start worker at:    tcp://10.73.2.125:33485
+distributed.worker - INFO -          dashboard at:          10.73.2.125:40319
+distributed.worker - INFO -          Listening to:    tcp://10.73.2.125:43733
+distributed.worker - INFO -          dashboard at:          10.73.2.125:46594
+distributed.worker - INFO - Waiting to connect to:    tcp://10.73.1.161:38309
+distributed.worker - INFO -       Start worker at:    tcp://10.73.2.125:38076
+distributed.worker - INFO - Waiting to connect to:    tcp://10.73.1.161:38309
+distributed.worker - INFO -          dashboard at:          10.73.2.125:34992
+distributed.worker - INFO -       Start worker at:    tcp://10.73.2.125:39464
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:    tcp://10.73.2.125:43573
+distributed.worker - INFO -          Listening to:    tcp://10.73.2.125:33485
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Waiting to connect to:    tcp://10.73.1.161:38309
+distributed.worker - INFO -       Start worker at:    tcp://10.73.2.125:41015
+distributed.worker - INFO -          Listening to:    tcp://10.73.2.125:43573
+distributed.worker - INFO -          dashboard at:          10.73.2.125:36099
+distributed.worker - INFO -       Start worker at:    tcp://10.73.2.125:36351
+distributed.worker - INFO -          Listening to:    tcp://10.73.2.125:36803
+distributed.worker - INFO -       Start worker at:    tcp://10.73.2.125:37972
+distributed.worker - INFO -       Start worker at:    tcp://10.73.2.125:36485
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -          Listening to:    tcp://10.73.2.125:41015
+distributed.worker - INFO -          dashboard at:          10.73.2.125:38990
+distributed.worker - INFO -       Start worker at:    tcp://10.73.2.125:45230
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO - Waiting to connect to:    tcp://10.73.1.161:38309
+distributed.worker - INFO -       Start worker at:    tcp://10.73.2.125:36395
+distributed.worker - INFO -          Listening to:    tcp://10.73.2.125:36351
+distributed.worker - INFO -          dashboard at:          10.73.2.125:37449
+distributed.worker - INFO -       Start worker at:    tcp://10.73.2.125:42511
+distributed.worker - INFO -                Memory:                    5.62 GB
+distributed.worker - INFO -          Listening to:    tcp://10.73.2.125:37972
+distributed.worker - INFO -          dashboard at:          10.73.2.125:32971
+distributed.worker - INFO -       Start worker at:    tcp://10.73.2.125:39555
+distributed.worker - INFO - Waiting to connect to:    tcp://10.73.1.161:38309
+distributed.worker - INFO -          Listening to:    tcp://10.73.2.125:36485
+distributed.worker - INFO -       Start worker at:    tcp://10.73.2.125:39822
+distributed.worker - INFO -                Memory:                    5.62 GB
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -          Listening to:    tcp://10.73.2.125:45230
+distributed.worker - INFO -          dashboard at:          10.73.2.125:35343
+distributed.worker - INFO - Waiting to connect to:    tcp://10.73.1.161:38309
+distributed.worker - INFO -          Listening to:    tcp://10.73.2.125:36395
+distributed.worker - INFO -       Local Directory: /scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-8v0boca_
+distributed.worker - INFO -       Start worker at:    tcp://10.73.2.125:35570
+distributed.worker - INFO - Waiting to connect to:    tcp://10.73.1.161:38309
+distributed.worker - INFO -          dashboard at:          10.73.2.125:45475
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -          Listening to:    tcp://10.73.2.125:39555
+distributed.worker - INFO -          dashboard at:          10.73.2.125:41314
+distributed.worker - INFO -          Listening to:    tcp://10.73.2.125:42511
+distributed.worker - INFO -       Local Directory: /scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-q31znz63
+distributed.worker - INFO -       Start worker at:    tcp://10.73.2.125:35713
+distributed.worker - INFO -          Listening to:    tcp://10.73.2.125:39822
+distributed.worker - INFO -          dashboard at:          10.73.2.125:40265
+distributed.worker - INFO - Waiting to connect to:    tcp://10.73.1.161:38309
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -          dashboard at:          10.73.2.125:42929
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:    tcp://10.73.2.125:45289
+distributed.worker - INFO -          Listening to:    tcp://10.73.2.125:35570
+distributed.worker - INFO - Waiting to connect to:    tcp://10.73.1.161:38309
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -          dashboard at:          10.73.2.125:37656
+distributed.worker - INFO -       Start worker at:    tcp://10.73.2.125:37863
+distributed.worker - INFO - Waiting to connect to:    tcp://10.73.1.161:38309
+distributed.worker - INFO -          dashboard at:          10.73.2.125:38246
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -       Start worker at:    tcp://10.73.2.125:39482
+distributed.worker - INFO -          Listening to:    tcp://10.73.2.125:35713
+distributed.worker - INFO -          dashboard at:          10.73.2.125:44619
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Waiting to connect to:    tcp://10.73.1.161:38309
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Waiting to connect to:    tcp://10.73.1.161:38309
+distributed.worker - INFO -                Memory:                    5.62 GB
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -          Listening to:    tcp://10.73.2.125:45289
+distributed.worker - INFO -          dashboard at:          10.73.2.125:36037
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO - Waiting to connect to:    tcp://10.73.1.161:38309
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -          Listening to:    tcp://10.73.2.125:37863
+distributed.worker - INFO - Waiting to connect to:    tcp://10.73.1.161:38309
+distributed.worker - INFO -                Memory:                    5.62 GB
+distributed.worker - INFO -       Start worker at:    tcp://10.73.2.125:41318
+distributed.worker - INFO - Waiting to connect to:    tcp://10.73.1.161:38309
+distributed.worker - INFO -          dashboard at:          10.73.2.125:44822
+distributed.worker - INFO -          Listening to:    tcp://10.73.2.125:39482
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Waiting to connect to:    tcp://10.73.1.161:38309
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Local Directory: /scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-i9ixwexx
+distributed.worker - INFO -                Memory:                    5.62 GB
+distributed.worker - INFO -       Start worker at:    tcp://10.73.2.125:33765
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -          dashboard at:          10.73.2.125:39009
+distributed.worker - INFO - Waiting to connect to:    tcp://10.73.1.161:38309
+distributed.worker - INFO -                Memory:                    5.62 GB
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:    tcp://10.73.2.125:42564
+distributed.worker - INFO -          dashboard at:          10.73.2.125:43078
+distributed.worker - INFO -       Local Directory: /scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-a_fv7tdm
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -          Listening to:    tcp://10.73.2.125:41318
+distributed.worker - INFO - Waiting to connect to:    tcp://10.73.1.161:38309
+distributed.worker - INFO -          dashboard at:          10.73.2.125:34412
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -       Local Directory: /scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-hf82w7dz
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -          Listening to:    tcp://10.73.2.125:33765
+distributed.worker - INFO -                Memory:                    5.62 GB
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Waiting to connect to:    tcp://10.73.1.161:38309
+distributed.worker - INFO -                Memory:                    5.62 GB
+distributed.worker - INFO -       Local Directory: /scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-nrjdlry5
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO - Waiting to connect to:    tcp://10.73.1.161:38309
+distributed.worker - INFO -                Memory:                    5.62 GB
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -          Listening to:    tcp://10.73.2.125:42564
+distributed.worker - INFO -          dashboard at:          10.73.2.125:40986
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Waiting to connect to:    tcp://10.73.1.161:38309
+distributed.worker - INFO -                Memory:                    5.62 GB
+distributed.worker - INFO -                Memory:                    5.62 GB
+distributed.worker - INFO -          dashboard at:          10.73.2.125:32787
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -       Local Directory: /scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-00evskgc
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Local Directory: /scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-n3spxrzc
+distributed.worker - INFO -                Memory:                    5.62 GB
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Local Directory: /scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-ec4a5pw3
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -                Memory:                    5.62 GB
+distributed.worker - INFO -          dashboard at:          10.73.2.125:39997
+distributed.worker - INFO - Waiting to connect to:    tcp://10.73.1.161:38309
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -       Local Directory: /scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-vr1bytb8
+distributed.worker - INFO -       Local Directory: /scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-zre3dhc0
+distributed.worker - INFO - Waiting to connect to:    tcp://10.73.1.161:38309
+distributed.worker - INFO -                Memory:                    5.62 GB
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Local Directory: /scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-5v68hjcj
+distributed.worker - INFO -                Memory:                    5.62 GB
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -       Local Directory: /scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-94nmydzy
+distributed.worker - INFO -       Start worker at:    tcp://10.73.2.125:40723
+distributed.worker - INFO - Waiting to connect to:    tcp://10.73.1.161:38309
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    5.62 GB
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Local Directory: /scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-dx56a3_b
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Local Directory: /scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-_kvyqty_
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -                Memory:                    5.62 GB
+distributed.worker - INFO -                Memory:                    5.62 GB
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Local Directory: /scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-8_fhntbg
+distributed.worker - INFO -                Memory:                    5.62 GB
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -          Listening to:    tcp://10.73.2.125:40723
+distributed.worker - INFO -                Memory:                    5.62 GB
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Local Directory: /scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-obwckxsd
+distributed.worker - INFO -       Local Directory: /scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-53xpmlie
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Local Directory: /scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-y6aenmea
+distributed.worker - INFO -                Memory:                    5.62 GB
+distributed.worker - INFO -       Local Directory: /scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-lzpmc5v8
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -          dashboard at:          10.73.2.125:35481
+distributed.worker - INFO -                Memory:                    5.62 GB
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Local Directory: /scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-q3rwzx9n
+distributed.worker - INFO -                Memory:                    5.62 GB
+distributed.worker - INFO -       Local Directory: /scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-5cbhu0an
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Waiting to connect to:    tcp://10.73.1.161:38309
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Local Directory: /scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-usy7kga3
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    5.62 GB
+distributed.worker - INFO -       Local Directory: /scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-8wr5yyz0
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -          Listening to:    tcp://10.73.2.125:33194
+distributed.worker - INFO -          Listening to:    tcp://10.73.2.125:44809
+distributed.worker - INFO -          Listening to:    tcp://10.73.2.125:38076
+distributed.worker - INFO -       Start worker at:    tcp://10.73.2.125:34886
+distributed.worker - INFO -          Listening to:    tcp://10.73.2.125:39464
+distributed.worker - INFO -          dashboard at:          10.73.2.125:44556
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -          dashboard at:          10.73.2.125:43749
+distributed.worker - INFO -          dashboard at:          10.73.2.125:44156
+distributed.worker - INFO - Waiting to connect to:    tcp://10.73.1.161:38309
+distributed.worker - INFO -          Listening to:    tcp://10.73.2.125:34886
+distributed.worker - INFO -          dashboard at:          10.73.2.125:38644
+distributed.worker - INFO - Waiting to connect to:    tcp://10.73.1.161:38309
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Waiting to connect to:    tcp://10.73.1.161:38309
+distributed.worker - INFO -          dashboard at:          10.73.2.125:43138
+distributed.worker - INFO - Waiting to connect to:    tcp://10.73.1.161:38309
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Waiting to connect to:    tcp://10.73.1.161:38309
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    5.62 GB
+distributed.worker - INFO -                Memory:                    5.62 GB
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -       Local Directory: /scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-vczycc5w
+distributed.worker - INFO -       Local Directory: /scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-uqwrgqo9
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    5.62 GB
+distributed.worker - INFO -                Memory:                    5.62 GB
+distributed.worker - INFO -                Memory:                    5.62 GB
+distributed.worker - INFO -                Memory:                    5.62 GB
+distributed.worker - INFO -       Local Directory: /scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-ns73fuzq
+distributed.worker - INFO -       Local Directory: /scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-45xyp2gf
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Local Directory: /scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-3imv_w6q
+distributed.worker - INFO -       Local Directory: /scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-1ol79p7o
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:    tcp://10.73.2.125:46165
+distributed.worker - INFO -          Listening to:    tcp://10.73.2.125:46165
+distributed.worker - INFO -          dashboard at:          10.73.2.125:39709
+distributed.worker - INFO - Waiting to connect to:    tcp://10.73.1.161:38309
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    5.62 GB
+distributed.worker - INFO -       Local Directory: /scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-cypjxow6
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:    tcp://10.73.2.125:43050
+distributed.worker - INFO -          Listening to:    tcp://10.73.2.125:43050
+distributed.worker - INFO -          dashboard at:          10.73.2.125:41496
+distributed.worker - INFO - Waiting to connect to:    tcp://10.73.1.161:38309
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    5.62 GB
+distributed.worker - INFO -       Local Directory: /scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-j9w8_hje
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:    tcp://10.73.1.161:38309
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:    tcp://10.73.1.161:38309
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:    tcp://10.73.1.161:38309
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:    tcp://10.73.1.161:38309
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:    tcp://10.73.1.161:38309
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:    tcp://10.73.1.161:38309
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:    tcp://10.73.1.161:38309
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:    tcp://10.73.1.161:38309
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:    tcp://10.73.1.161:38309
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:    tcp://10.73.1.161:38309
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:    tcp://10.73.1.161:38309
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:    tcp://10.73.1.161:38309
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:    tcp://10.73.1.161:38309
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:    tcp://10.73.1.161:38309
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:    tcp://10.73.1.161:38309
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:    tcp://10.73.1.161:38309
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:    tcp://10.73.1.161:38309
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:    tcp://10.73.1.161:38309
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:    tcp://10.73.1.161:38309
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:    tcp://10.73.1.161:38309
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:    tcp://10.73.1.161:38309
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:    tcp://10.73.1.161:38309
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:    tcp://10.73.1.161:38309
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:    tcp://10.73.1.161:38309
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:    tcp://10.73.1.161:38309
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:    tcp://10.73.1.161:38309
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:    tcp://10.73.1.161:38309
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:    tcp://10.73.1.161:38309
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:    tcp://10.73.1.161:38309
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:    tcp://10.73.1.161:38309
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:    tcp://10.73.1.161:38309
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:    tcp://10.73.1.161:38309
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.core - INFO - Starting established connection
+distributed.core - INFO - Event loop was unresponsive in Worker for 9.82s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 9.83s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 9.82s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 9.82s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 9.83s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 9.82s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 9.82s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 9.83s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 9.82s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 9.82s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 9.83s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 9.83s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.worker - ERROR - Worker stream died during communication: tcp://10.73.2.125:43733
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/comm/core.py", line 319, in connect
+    handshake = await asyncio.wait_for(comm.read(), time_left())
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/asyncio/tasks.py", line 449, in wait_for
+    raise futures.TimeoutError()
+concurrent.futures._base.TimeoutError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2064, in gather_dep
+    self.rpc, deps, worker, who=self.address
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 3333, in get_data_from_worker
+    return await retry_operation(_get_data, operation="get_data_from_worker")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/utils_comm.py", line 389, in retry_operation
+    operation=operation,
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/utils_comm.py", line 369, in retry
+    return await coro()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 3310, in _get_data
+    comm = await rpc.connect(worker)
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/core.py", line 1013, in connect
+    **self.connection_args,
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/comm/core.py", line 326, in connect
+    ) from exc
+OSError: Timed out during handshake while connecting to tcp://10.73.2.125:43733 after 10 s
+distributed.worker - ERROR - Worker stream died during communication: tcp://10.73.2.125:44809
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/comm/core.py", line 319, in connect
+    handshake = await asyncio.wait_for(comm.read(), time_left())
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/asyncio/tasks.py", line 449, in wait_for
+    raise futures.TimeoutError()
+concurrent.futures._base.TimeoutError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2064, in gather_dep
+    self.rpc, deps, worker, who=self.address
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 3333, in get_data_from_worker
+    return await retry_operation(_get_data, operation="get_data_from_worker")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/utils_comm.py", line 389, in retry_operation
+    operation=operation,
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/utils_comm.py", line 369, in retry
+    return await coro()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 3310, in _get_data
+    comm = await rpc.connect(worker)
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/core.py", line 1013, in connect
+    **self.connection_args,
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/comm/core.py", line 326, in connect
+    ) from exc
+OSError: Timed out during handshake while connecting to tcp://10.73.2.125:44809 after 10 s
+distributed.worker - ERROR - Worker stream died during communication: tcp://10.73.2.125:43733
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/comm/core.py", line 319, in connect
+    handshake = await asyncio.wait_for(comm.read(), time_left())
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/asyncio/tasks.py", line 449, in wait_for
+    raise futures.TimeoutError()
+concurrent.futures._base.TimeoutError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2064, in gather_dep
+    self.rpc, deps, worker, who=self.address
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 3333, in get_data_from_worker
+    return await retry_operation(_get_data, operation="get_data_from_worker")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/utils_comm.py", line 389, in retry_operation
+    operation=operation,
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/utils_comm.py", line 369, in retry
+    return await coro()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 3310, in _get_data
+    comm = await rpc.connect(worker)
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/core.py", line 1013, in connect
+    **self.connection_args,
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/comm/core.py", line 326, in connect
+    ) from exc
+OSError: Timed out during handshake while connecting to tcp://10.73.2.125:43733 after 10 s
+distributed.worker - ERROR - Worker stream died during communication: tcp://10.73.2.125:43733
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/comm/core.py", line 319, in connect
+    handshake = await asyncio.wait_for(comm.read(), time_left())
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/asyncio/tasks.py", line 449, in wait_for
+    raise futures.TimeoutError()
+concurrent.futures._base.TimeoutError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2064, in gather_dep
+    self.rpc, deps, worker, who=self.address
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 3333, in get_data_from_worker
+    return await retry_operation(_get_data, operation="get_data_from_worker")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/utils_comm.py", line 389, in retry_operation
+    operation=operation,
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/utils_comm.py", line 369, in retry
+    return await coro()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 3310, in _get_data
+    comm = await rpc.connect(worker)
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/core.py", line 1013, in connect
+    **self.connection_args,
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/comm/core.py", line 326, in connect
+    ) from exc
+OSError: Timed out during handshake while connecting to tcp://10.73.2.125:43733 after 10 s
+distributed.worker - ERROR - Worker stream died during communication: tcp://10.73.2.125:44809
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/comm/core.py", line 319, in connect
+    handshake = await asyncio.wait_for(comm.read(), time_left())
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/asyncio/tasks.py", line 449, in wait_for
+    raise futures.TimeoutError()
+concurrent.futures._base.TimeoutError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2064, in gather_dep
+    self.rpc, deps, worker, who=self.address
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 3333, in get_data_from_worker
+    return await retry_operation(_get_data, operation="get_data_from_worker")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/utils_comm.py", line 389, in retry_operation
+    operation=operation,
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/utils_comm.py", line 369, in retry
+    return await coro()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 3310, in _get_data
+    comm = await rpc.connect(worker)
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/core.py", line 1013, in connect
+    **self.connection_args,
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/comm/core.py", line 326, in connect
+    ) from exc
+OSError: Timed out during handshake while connecting to tcp://10.73.2.125:44809 after 10 s
+distributed.worker - ERROR - Worker stream died during communication: tcp://10.73.2.125:43733
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/comm/core.py", line 319, in connect
+    handshake = await asyncio.wait_for(comm.read(), time_left())
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/asyncio/tasks.py", line 449, in wait_for
+    raise futures.TimeoutError()
+concurrent.futures._base.TimeoutError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2064, in gather_dep
+    self.rpc, deps, worker, who=self.address
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 3333, in get_data_from_worker
+    return await retry_operation(_get_data, operation="get_data_from_worker")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/utils_comm.py", line 389, in retry_operation
+    operation=operation,
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/utils_comm.py", line 369, in retry
+    return await coro()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 3310, in _get_data
+    comm = await rpc.connect(worker)
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/core.py", line 1013, in connect
+    **self.connection_args,
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/comm/core.py", line 326, in connect
+    ) from exc
+OSError: Timed out during handshake while connecting to tcp://10.73.2.125:43733 after 10 s
+distributed.worker - ERROR - Worker stream died during communication: tcp://10.73.2.125:43733
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/comm/core.py", line 319, in connect
+    handshake = await asyncio.wait_for(comm.read(), time_left())
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/asyncio/tasks.py", line 449, in wait_for
+    raise futures.TimeoutError()
+concurrent.futures._base.TimeoutError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2064, in gather_dep
+    self.rpc, deps, worker, who=self.address
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 3333, in get_data_from_worker
+    return await retry_operation(_get_data, operation="get_data_from_worker")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/utils_comm.py", line 389, in retry_operation
+    operation=operation,
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/utils_comm.py", line 369, in retry
+    return await coro()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 3310, in _get_data
+    comm = await rpc.connect(worker)
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/core.py", line 1013, in connect
+    **self.connection_args,
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/comm/core.py", line 326, in connect
+    ) from exc
+OSError: Timed out during handshake while connecting to tcp://10.73.2.125:43733 after 10 s
+distributed.worker - ERROR - Worker stream died during communication: tcp://10.73.2.125:44809
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/comm/core.py", line 319, in connect
+    handshake = await asyncio.wait_for(comm.read(), time_left())
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/asyncio/tasks.py", line 449, in wait_for
+    raise futures.TimeoutError()
+concurrent.futures._base.TimeoutError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2064, in gather_dep
+    self.rpc, deps, worker, who=self.address
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 3333, in get_data_from_worker
+    return await retry_operation(_get_data, operation="get_data_from_worker")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/utils_comm.py", line 389, in retry_operation
+    operation=operation,
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/utils_comm.py", line 369, in retry
+    return await coro()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 3310, in _get_data
+    comm = await rpc.connect(worker)
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/core.py", line 1013, in connect
+    **self.connection_args,
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/comm/core.py", line 326, in connect
+    ) from exc
+OSError: Timed out during handshake while connecting to tcp://10.73.2.125:44809 after 10 s
+distributed.worker - ERROR - ('waiting', 'executing')
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x2b166c769650>>, <Task finished coro=<Worker.ensure_computing() done, defined at /scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py:2525> exception=KeyError(('waiting', 'executing'))>)
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 741, in _run_callback
+    ret = callback()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 765, in _discard_future_result
+    future.result()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+distributed.worker - ERROR - Worker stream died during communication: tcp://10.73.2.125:43733
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/comm/core.py", line 319, in connect
+    handshake = await asyncio.wait_for(comm.read(), time_left())
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/asyncio/tasks.py", line 449, in wait_for
+    raise futures.TimeoutError()
+concurrent.futures._base.TimeoutError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2064, in gather_dep
+    self.rpc, deps, worker, who=self.address
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 3333, in get_data_from_worker
+    return await retry_operation(_get_data, operation="get_data_from_worker")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/utils_comm.py", line 389, in retry_operation
+    operation=operation,
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/utils_comm.py", line 369, in retry
+    return await coro()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 3310, in _get_data
+    comm = await rpc.connect(worker)
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/core.py", line 1013, in connect
+    **self.connection_args,
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/comm/core.py", line 326, in connect
+    ) from exc
+OSError: Timed out during handshake while connecting to tcp://10.73.2.125:43733 after 10 s
+distributed.worker - ERROR - ('waiting', 'executing')
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x2b62e7dad3d0>>, <Task finished coro=<Worker.ensure_computing() done, defined at /scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py:2525> exception=KeyError(('waiting', 'executing'))>)
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 741, in _run_callback
+    ret = callback()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 765, in _discard_future_result
+    future.result()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+distributed.worker - ERROR - Worker stream died during communication: tcp://10.73.2.125:44809
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/comm/core.py", line 319, in connect
+    handshake = await asyncio.wait_for(comm.read(), time_left())
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/asyncio/tasks.py", line 449, in wait_for
+    raise futures.TimeoutError()
+concurrent.futures._base.TimeoutError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2064, in gather_dep
+    self.rpc, deps, worker, who=self.address
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 3333, in get_data_from_worker
+    return await retry_operation(_get_data, operation="get_data_from_worker")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/utils_comm.py", line 389, in retry_operation
+    operation=operation,
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/utils_comm.py", line 369, in retry
+    return await coro()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 3310, in _get_data
+    comm = await rpc.connect(worker)
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/core.py", line 1013, in connect
+    **self.connection_args,
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/comm/core.py", line 326, in connect
+    ) from exc
+OSError: Timed out during handshake while connecting to tcp://10.73.2.125:44809 after 10 s
+distributed.worker - ERROR - Worker stream died during communication: tcp://10.73.2.125:40300
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/comm/core.py", line 319, in connect
+    handshake = await asyncio.wait_for(comm.read(), time_left())
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/asyncio/tasks.py", line 449, in wait_for
+    raise futures.TimeoutError()
+concurrent.futures._base.TimeoutError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2064, in gather_dep
+    self.rpc, deps, worker, who=self.address
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 3333, in get_data_from_worker
+    return await retry_operation(_get_data, operation="get_data_from_worker")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/utils_comm.py", line 389, in retry_operation
+    operation=operation,
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/utils_comm.py", line 369, in retry
+    return await coro()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 3310, in _get_data
+    comm = await rpc.connect(worker)
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/core.py", line 1013, in connect
+    **self.connection_args,
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/comm/core.py", line 326, in connect
+    ) from exc
+OSError: Timed out during handshake while connecting to tcp://10.73.2.125:40300 after 10 s
+distributed.worker - ERROR - Worker stream died during communication: tcp://10.73.2.125:43733
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/comm/core.py", line 319, in connect
+    handshake = await asyncio.wait_for(comm.read(), time_left())
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/asyncio/tasks.py", line 449, in wait_for
+    raise futures.TimeoutError()
+concurrent.futures._base.TimeoutError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2064, in gather_dep
+    self.rpc, deps, worker, who=self.address
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 3333, in get_data_from_worker
+    return await retry_operation(_get_data, operation="get_data_from_worker")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/utils_comm.py", line 389, in retry_operation
+    operation=operation,
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/utils_comm.py", line 369, in retry
+    return await coro()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 3310, in _get_data
+    comm = await rpc.connect(worker)
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/core.py", line 1013, in connect
+    **self.connection_args,
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/comm/core.py", line 326, in connect
+    ) from exc
+OSError: Timed out during handshake while connecting to tcp://10.73.2.125:43733 after 10 s
+distributed.worker - ERROR - Worker stream died during communication: tcp://10.73.2.125:40300
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/comm/core.py", line 319, in connect
+    handshake = await asyncio.wait_for(comm.read(), time_left())
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/asyncio/tasks.py", line 449, in wait_for
+    raise futures.TimeoutError()
+concurrent.futures._base.TimeoutError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2064, in gather_dep
+    self.rpc, deps, worker, who=self.address
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 3333, in get_data_from_worker
+    return await retry_operation(_get_data, operation="get_data_from_worker")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/utils_comm.py", line 389, in retry_operation
+    operation=operation,
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/utils_comm.py", line 369, in retry
+    return await coro()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 3310, in _get_data
+    comm = await rpc.connect(worker)
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/core.py", line 1013, in connect
+    **self.connection_args,
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/comm/core.py", line 326, in connect
+    ) from exc
+OSError: Timed out during handshake while connecting to tcp://10.73.2.125:40300 after 10 s
+distributed.worker - ERROR - ('waiting', 'executing')
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x2af0e67e4bd0>>, <Task finished coro=<Worker.ensure_computing() done, defined at /scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py:2525> exception=KeyError(('waiting', 'executing'))>)
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 741, in _run_callback
+    ret = callback()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 765, in _discard_future_result
+    future.result()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+distributed.worker - ERROR - Worker stream died during communication: tcp://10.73.2.125:44809
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/comm/core.py", line 319, in connect
+    handshake = await asyncio.wait_for(comm.read(), time_left())
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/asyncio/tasks.py", line 449, in wait_for
+    raise futures.TimeoutError()
+concurrent.futures._base.TimeoutError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2064, in gather_dep
+    self.rpc, deps, worker, who=self.address
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 3333, in get_data_from_worker
+    return await retry_operation(_get_data, operation="get_data_from_worker")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/utils_comm.py", line 389, in retry_operation
+    operation=operation,
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/utils_comm.py", line 369, in retry
+    return await coro()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 3310, in _get_data
+    comm = await rpc.connect(worker)
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/core.py", line 1013, in connect
+    **self.connection_args,
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/comm/core.py", line 326, in connect
+    ) from exc
+OSError: Timed out during handshake while connecting to tcp://10.73.2.125:44809 after 10 s
+distributed.worker - ERROR - Worker stream died during communication: tcp://10.73.2.125:40300
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/comm/core.py", line 319, in connect
+    handshake = await asyncio.wait_for(comm.read(), time_left())
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/asyncio/tasks.py", line 449, in wait_for
+    raise futures.TimeoutError()
+concurrent.futures._base.TimeoutError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2064, in gather_dep
+    self.rpc, deps, worker, who=self.address
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 3333, in get_data_from_worker
+    return await retry_operation(_get_data, operation="get_data_from_worker")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/utils_comm.py", line 389, in retry_operation
+    operation=operation,
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/utils_comm.py", line 369, in retry
+    return await coro()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 3310, in _get_data
+    comm = await rpc.connect(worker)
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/core.py", line 1013, in connect
+    **self.connection_args,
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/comm/core.py", line 326, in connect
+    ) from exc
+OSError: Timed out during handshake while connecting to tcp://10.73.2.125:40300 after 10 s
+distributed.worker - ERROR - Worker stream died during communication: tcp://10.73.2.125:37972
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/comm/core.py", line 319, in connect
+    handshake = await asyncio.wait_for(comm.read(), time_left())
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/asyncio/tasks.py", line 449, in wait_for
+    raise futures.TimeoutError()
+concurrent.futures._base.TimeoutError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2064, in gather_dep
+    self.rpc, deps, worker, who=self.address
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 3333, in get_data_from_worker
+    return await retry_operation(_get_data, operation="get_data_from_worker")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/utils_comm.py", line 389, in retry_operation
+    operation=operation,
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/utils_comm.py", line 369, in retry
+    return await coro()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 3310, in _get_data
+    comm = await rpc.connect(worker)
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/core.py", line 1013, in connect
+    **self.connection_args,
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/comm/core.py", line 326, in connect
+    ) from exc
+OSError: Timed out during handshake while connecting to tcp://10.73.2.125:37972 after 10 s
+distributed.worker - ERROR - ('waiting', 'executing')
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x2aea666a05d0>>, <Task finished coro=<Worker.ensure_computing() done, defined at /scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py:2525> exception=KeyError(('waiting', 'executing'))>)
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 741, in _run_callback
+    ret = callback()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 765, in _discard_future_result
+    future.result()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+distributed.worker - ERROR - Worker stream died during communication: tcp://10.73.2.125:36803
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/comm/core.py", line 319, in connect
+    handshake = await asyncio.wait_for(comm.read(), time_left())
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/asyncio/tasks.py", line 449, in wait_for
+    raise futures.TimeoutError()
+concurrent.futures._base.TimeoutError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2064, in gather_dep
+    self.rpc, deps, worker, who=self.address
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 3333, in get_data_from_worker
+    return await retry_operation(_get_data, operation="get_data_from_worker")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/utils_comm.py", line 389, in retry_operation
+    operation=operation,
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/utils_comm.py", line 369, in retry
+    return await coro()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 3310, in _get_data
+    comm = await rpc.connect(worker)
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/core.py", line 1013, in connect
+    **self.connection_args,
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/comm/core.py", line 326, in connect
+    ) from exc
+OSError: Timed out during handshake while connecting to tcp://10.73.2.125:36803 after 10 s
+distributed.worker - ERROR - Worker stream died during communication: tcp://10.73.2.125:37972
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/comm/core.py", line 319, in connect
+    handshake = await asyncio.wait_for(comm.read(), time_left())
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/asyncio/tasks.py", line 449, in wait_for
+    raise futures.TimeoutError()
+concurrent.futures._base.TimeoutError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2064, in gather_dep
+    self.rpc, deps, worker, who=self.address
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 3333, in get_data_from_worker
+    return await retry_operation(_get_data, operation="get_data_from_worker")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/utils_comm.py", line 389, in retry_operation
+    operation=operation,
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/utils_comm.py", line 369, in retry
+    return await coro()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 3310, in _get_data
+    comm = await rpc.connect(worker)
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/core.py", line 1013, in connect
+    **self.connection_args,
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/comm/core.py", line 326, in connect
+    ) from exc
+OSError: Timed out during handshake while connecting to tcp://10.73.2.125:37972 after 10 s
+distributed.worker - ERROR - Worker stream died during communication: tcp://10.73.2.125:40300
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/comm/core.py", line 319, in connect
+    handshake = await asyncio.wait_for(comm.read(), time_left())
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/asyncio/tasks.py", line 449, in wait_for
+    raise futures.TimeoutError()
+concurrent.futures._base.TimeoutError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2064, in gather_dep
+    self.rpc, deps, worker, who=self.address
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 3333, in get_data_from_worker
+    return await retry_operation(_get_data, operation="get_data_from_worker")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/utils_comm.py", line 389, in retry_operation
+    operation=operation,
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/utils_comm.py", line 369, in retry
+    return await coro()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 3310, in _get_data
+    comm = await rpc.connect(worker)
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/core.py", line 1013, in connect
+    **self.connection_args,
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/comm/core.py", line 326, in connect
+    ) from exc
+OSError: Timed out during handshake while connecting to tcp://10.73.2.125:40300 after 10 s
+distributed.worker - ERROR - ('waiting', 'executing')
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x2af28a1c3950>>, <Task finished coro=<Worker.ensure_computing() done, defined at /scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py:2525> exception=KeyError(('waiting', 'executing'))>)
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 741, in _run_callback
+    ret = callback()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 765, in _discard_future_result
+    future.result()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+distributed.worker - ERROR - Worker stream died during communication: tcp://10.73.2.125:35713
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/comm/core.py", line 319, in connect
+    handshake = await asyncio.wait_for(comm.read(), time_left())
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/asyncio/tasks.py", line 449, in wait_for
+    raise futures.TimeoutError()
+concurrent.futures._base.TimeoutError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2064, in gather_dep
+    self.rpc, deps, worker, who=self.address
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 3333, in get_data_from_worker
+    return await retry_operation(_get_data, operation="get_data_from_worker")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/utils_comm.py", line 389, in retry_operation
+    operation=operation,
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/utils_comm.py", line 369, in retry
+    return await coro()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 3310, in _get_data
+    comm = await rpc.connect(worker)
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/core.py", line 1013, in connect
+    **self.connection_args,
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/comm/core.py", line 326, in connect
+    ) from exc
+OSError: Timed out during handshake while connecting to tcp://10.73.2.125:35713 after 10 s
+distributed.worker - INFO - Can't find dependencies for key ('open_dataset-concatenate-360fd7353131810b3772491c826632dd', 5, 0, 4, 6)
+distributed.worker - INFO - Dependent not found: open_dataset-c493b1a57fc7c0b460177e5172762780TEMP-217c6525ff8bc8ca1622edca6342fd2f 0 .  Asking scheduler
+distributed.worker - ERROR - Worker stream died during communication: tcp://10.73.2.125:39464
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/comm/core.py", line 319, in connect
+    handshake = await asyncio.wait_for(comm.read(), time_left())
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/asyncio/tasks.py", line 449, in wait_for
+    raise futures.TimeoutError()
+concurrent.futures._base.TimeoutError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2064, in gather_dep
+    self.rpc, deps, worker, who=self.address
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 3333, in get_data_from_worker
+    return await retry_operation(_get_data, operation="get_data_from_worker")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/utils_comm.py", line 389, in retry_operation
+    operation=operation,
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/utils_comm.py", line 369, in retry
+    return await coro()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 3310, in _get_data
+    comm = await rpc.connect(worker)
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/core.py", line 1013, in connect
+    **self.connection_args,
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/comm/core.py", line 326, in connect
+    ) from exc
+OSError: Timed out during handshake while connecting to tcp://10.73.2.125:39464 after 10 s
+distributed.worker - ERROR - Worker stream died during communication: tcp://10.73.2.125:44809
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/comm/core.py", line 319, in connect
+    handshake = await asyncio.wait_for(comm.read(), time_left())
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/asyncio/tasks.py", line 449, in wait_for
+    raise futures.TimeoutError()
+concurrent.futures._base.TimeoutError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2064, in gather_dep
+    self.rpc, deps, worker, who=self.address
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 3333, in get_data_from_worker
+    return await retry_operation(_get_data, operation="get_data_from_worker")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/utils_comm.py", line 389, in retry_operation
+    operation=operation,
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/utils_comm.py", line 369, in retry
+    return await coro()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 3310, in _get_data
+    comm = await rpc.connect(worker)
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/core.py", line 1013, in connect
+    **self.connection_args,
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/comm/core.py", line 326, in connect
+    ) from exc
+OSError: Timed out during handshake while connecting to tcp://10.73.2.125:44809 after 10 s
+distributed.worker - ERROR - Worker stream died during communication: tcp://10.73.2.125:36485
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/comm/core.py", line 319, in connect
+    handshake = await asyncio.wait_for(comm.read(), time_left())
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/asyncio/tasks.py", line 449, in wait_for
+    raise futures.TimeoutError()
+concurrent.futures._base.TimeoutError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2064, in gather_dep
+    self.rpc, deps, worker, who=self.address
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 3333, in get_data_from_worker
+    return await retry_operation(_get_data, operation="get_data_from_worker")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/utils_comm.py", line 389, in retry_operation
+    operation=operation,
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/utils_comm.py", line 369, in retry
+    return await coro()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 3310, in _get_data
+    comm = await rpc.connect(worker)
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/core.py", line 1013, in connect
+    **self.connection_args,
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/comm/core.py", line 326, in connect
+    ) from exc
+OSError: Timed out during handshake while connecting to tcp://10.73.2.125:36485 after 10 s
+distributed.worker - INFO - Can't find dependencies for key ('rechunk-split-rechunk-merge-975f406feb4cf525568bdbe593576c5c', 4, 6)
+distributed.worker - INFO - Dependent not found: ('array-9340316476bce16d06dd970a0a7d3507', 0, 0) 0 .  Asking scheduler
+distributed.worker - ERROR - ('waiting', 'executing')
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x2b25dace4650>>, <Task finished coro=<Worker.ensure_computing() done, defined at /scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py:2525> exception=KeyError(('waiting', 'executing'))>)
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 741, in _run_callback
+    ret = callback()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 765, in _discard_future_result
+    future.result()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+distributed.worker - ERROR - ('waiting', 'executing')
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x2aaaed2af410>>, <Task finished coro=<Worker.ensure_computing() done, defined at /scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py:2525> exception=KeyError(('waiting', 'executing'))>)
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 741, in _run_callback
+    ret = callback()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 765, in _discard_future_result
+    future.result()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+distributed.worker - ERROR - Worker stream died during communication: tcp://10.73.2.125:40300
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/comm/core.py", line 319, in connect
+    handshake = await asyncio.wait_for(comm.read(), time_left())
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/asyncio/tasks.py", line 449, in wait_for
+    raise futures.TimeoutError()
+concurrent.futures._base.TimeoutError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2064, in gather_dep
+    self.rpc, deps, worker, who=self.address
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 3333, in get_data_from_worker
+    return await retry_operation(_get_data, operation="get_data_from_worker")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/utils_comm.py", line 389, in retry_operation
+    operation=operation,
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/utils_comm.py", line 369, in retry
+    return await coro()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 3310, in _get_data
+    comm = await rpc.connect(worker)
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/core.py", line 1013, in connect
+    **self.connection_args,
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/comm/core.py", line 326, in connect
+    ) from exc
+OSError: Timed out during handshake while connecting to tcp://10.73.2.125:40300 after 10 s
+distributed.worker - ERROR - Worker stream died during communication: tcp://10.73.2.125:45230
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/comm/core.py", line 319, in connect
+    handshake = await asyncio.wait_for(comm.read(), time_left())
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/asyncio/tasks.py", line 449, in wait_for
+    raise futures.TimeoutError()
+concurrent.futures._base.TimeoutError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2064, in gather_dep
+    self.rpc, deps, worker, who=self.address
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 3333, in get_data_from_worker
+    return await retry_operation(_get_data, operation="get_data_from_worker")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/utils_comm.py", line 389, in retry_operation
+    operation=operation,
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/utils_comm.py", line 369, in retry
+    return await coro()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 3310, in _get_data
+    comm = await rpc.connect(worker)
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/core.py", line 1013, in connect
+    **self.connection_args,
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/comm/core.py", line 326, in connect
+    ) from exc
+OSError: Timed out during handshake while connecting to tcp://10.73.2.125:45230 after 10 s
+distributed.core - INFO - Event loop was unresponsive in Worker for 15.43s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 7.53s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 11.20s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 27.00s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 22.35s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 17.67s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 21.24s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.worker - ERROR - Worker stream died during communication: tcp://10.73.2.125:44809
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/comm/core.py", line 319, in connect
+    handshake = await asyncio.wait_for(comm.read(), time_left())
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/asyncio/tasks.py", line 449, in wait_for
+    raise futures.TimeoutError()
+concurrent.futures._base.TimeoutError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2064, in gather_dep
+    self.rpc, deps, worker, who=self.address
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 3333, in get_data_from_worker
+    return await retry_operation(_get_data, operation="get_data_from_worker")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/utils_comm.py", line 389, in retry_operation
+    operation=operation,
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/utils_comm.py", line 369, in retry
+    return await coro()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 3310, in _get_data
+    comm = await rpc.connect(worker)
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/core.py", line 1013, in connect
+    **self.connection_args,
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/comm/core.py", line 326, in connect
+    ) from exc
+OSError: Timed out during handshake while connecting to tcp://10.73.2.125:44809 after 10 s
+distributed.worker - ERROR - Worker stream died during communication: tcp://10.73.2.125:43733
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/comm/core.py", line 319, in connect
+    handshake = await asyncio.wait_for(comm.read(), time_left())
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/asyncio/tasks.py", line 449, in wait_for
+    raise futures.TimeoutError()
+concurrent.futures._base.TimeoutError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2064, in gather_dep
+    self.rpc, deps, worker, who=self.address
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 3333, in get_data_from_worker
+    return await retry_operation(_get_data, operation="get_data_from_worker")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/utils_comm.py", line 389, in retry_operation
+    operation=operation,
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/utils_comm.py", line 369, in retry
+    return await coro()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 3310, in _get_data
+    comm = await rpc.connect(worker)
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/core.py", line 1013, in connect
+    **self.connection_args,
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/comm/core.py", line 326, in connect
+    ) from exc
+OSError: Timed out during handshake while connecting to tcp://10.73.2.125:43733 after 10 s
+distributed.worker - ERROR - Worker stream died during communication: tcp://10.73.2.125:36803
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/comm/core.py", line 319, in connect
+    handshake = await asyncio.wait_for(comm.read(), time_left())
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/asyncio/tasks.py", line 449, in wait_for
+    raise futures.TimeoutError()
+concurrent.futures._base.TimeoutError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2064, in gather_dep
+    self.rpc, deps, worker, who=self.address
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 3333, in get_data_from_worker
+    return await retry_operation(_get_data, operation="get_data_from_worker")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/utils_comm.py", line 389, in retry_operation
+    operation=operation,
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/utils_comm.py", line 369, in retry
+    return await coro()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 3310, in _get_data
+    comm = await rpc.connect(worker)
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/core.py", line 1013, in connect
+    **self.connection_args,
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/comm/core.py", line 326, in connect
+    ) from exc
+OSError: Timed out during handshake while connecting to tcp://10.73.2.125:36803 after 10 s
+distributed.worker - ERROR - Worker stream died during communication: tcp://10.73.2.125:43733
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/comm/core.py", line 319, in connect
+    handshake = await asyncio.wait_for(comm.read(), time_left())
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/asyncio/tasks.py", line 449, in wait_for
+    raise futures.TimeoutError()
+concurrent.futures._base.TimeoutError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2064, in gather_dep
+    self.rpc, deps, worker, who=self.address
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 3333, in get_data_from_worker
+    return await retry_operation(_get_data, operation="get_data_from_worker")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/utils_comm.py", line 389, in retry_operation
+    operation=operation,
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/utils_comm.py", line 369, in retry
+    return await coro()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 3310, in _get_data
+    comm = await rpc.connect(worker)
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/core.py", line 1013, in connect
+    **self.connection_args,
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/comm/core.py", line 326, in connect
+    ) from exc
+OSError: Timed out during handshake while connecting to tcp://10.73.2.125:43733 after 10 s
+distributed.comm.tcp - INFO - Connection closed before handshake completed
+distributed.comm.tcp - INFO - Connection closed before handshake completed
+distributed.comm.tcp - INFO - Connection closed before handshake completed
+distributed.comm.tcp - INFO - Connection closed before handshake completed
+distributed.comm.tcp - INFO - Connection closed before handshake completed
+distributed.worker - ERROR - Worker stream died during communication: tcp://10.73.2.125:43733
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/comm/core.py", line 319, in connect
+    handshake = await asyncio.wait_for(comm.read(), time_left())
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/asyncio/tasks.py", line 449, in wait_for
+    raise futures.TimeoutError()
+concurrent.futures._base.TimeoutError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2064, in gather_dep
+    self.rpc, deps, worker, who=self.address
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 3333, in get_data_from_worker
+    return await retry_operation(_get_data, operation="get_data_from_worker")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/utils_comm.py", line 389, in retry_operation
+    operation=operation,
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/utils_comm.py", line 369, in retry
+    return await coro()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 3310, in _get_data
+    comm = await rpc.connect(worker)
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/core.py", line 1013, in connect
+    **self.connection_args,
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/comm/core.py", line 326, in connect
+    ) from exc
+OSError: Timed out during handshake while connecting to tcp://10.73.2.125:43733 after 10 s
+distributed.core - INFO - Event loop was unresponsive in Worker for 10.82s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.comm.tcp - INFO - Connection closed before handshake completed
+distributed.comm.tcp - INFO - Connection closed before handshake completed
+distributed.comm.tcp - INFO - Connection closed before handshake completed
+distributed.comm.tcp - INFO - Connection closed before handshake completed
+distributed.comm.tcp - INFO - Connection closed before handshake completed
+distributed.core - INFO - Event loop was unresponsive in Worker for 12.91s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.comm.tcp - INFO - Connection closed before handshake completed
+distributed.core - INFO - Event loop was unresponsive in Worker for 13.77s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.comm.tcp - INFO - Connection closed before handshake completed
+distributed.core - INFO - Event loop was unresponsive in Worker for 23.24s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 37.43s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 36.07s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.comm.tcp - INFO - Connection closed before handshake completed
+distributed.comm.tcp - INFO - Connection closed before handshake completed
+distributed.comm.tcp - INFO - Connection closed before handshake completed
+distributed.comm.tcp - INFO - Connection closed before handshake completed
+distributed.comm.tcp - INFO - Connection closed before handshake completed
+distributed.comm.tcp - INFO - Connection closed before handshake completed
+distributed.comm.tcp - INFO - Connection closed before handshake completed
+distributed.comm.tcp - INFO - Connection closed before handshake completed
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.batched - INFO - Batched Comm Closed: 
+distributed.comm.tcp - INFO - Connection closed before handshake completed
+distributed.comm.tcp - INFO - Connection closed before handshake completed
+distributed.comm.tcp - INFO - Connection closed before handshake completed
+distributed.comm.tcp - INFO - Connection closed before handshake completed
+distributed.comm.tcp - INFO - Connection closed before handshake completed
+distributed.comm.tcp - INFO - Connection closed before handshake completed
+distributed.comm.tcp - INFO - Connection closed before handshake completed
+distributed.comm.tcp - INFO - Connection closed before handshake completed
+distributed.comm.tcp - INFO - Connection closed before handshake completed
+distributed.comm.tcp - INFO - Connection closed before handshake completed
+distributed.worker - ERROR - 
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1629, in transition_flight_memory
+    self.batched_stream.send({"op": "add-keys", "keys": [ts.key]})
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/batched.py", line 136, in send
+    raise CommClosedError()
+distributed.comm.core.CommClosedError
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x2b62e5a3a550>>, <Task finished coro=<Worker.gather_dep() done, defined at /scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py:2031> exception=CommClosedError()>)
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 741, in _run_callback
+    ret = callback()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 765, in _discard_future_result
+    future.result()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2150, in gather_dep
+    self.transition(ts, "memory", value=data[d])
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1554, in transition
+    state = func(ts, **kwargs)
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1629, in transition_flight_memory
+    self.batched_stream.send({"op": "add-keys", "keys": [ts.key]})
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/batched.py", line 136, in send
+    raise CommClosedError()
+distributed.comm.core.CommClosedError
+distributed.worker - INFO - Comm closed
+distributed.worker - INFO - Comm closed
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Comm closed
+distributed.core - INFO - Event loop was unresponsive in Worker for 4.32s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 4.00s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.worker - INFO - Comm closed
+distributed.core - INFO - Event loop was unresponsive in Worker for 4.26s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.worker - INFO - Comm closed
+distributed.worker - INFO - Comm closed
+distributed.core - INFO - Event loop was unresponsive in Worker for 4.07s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.worker - ERROR - 
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1629, in transition_flight_memory
+    self.batched_stream.send({"op": "add-keys", "keys": [ts.key]})
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/batched.py", line 136, in send
+    raise CommClosedError()
+distributed.comm.core.CommClosedError
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x2b62e5a3a550>>, <Task finished coro=<Worker.gather_dep() done, defined at /scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py:2031> exception=CommClosedError()>)
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 741, in _run_callback
+    ret = callback()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 765, in _discard_future_result
+    future.result()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2150, in gather_dep
+    self.transition(ts, "memory", value=data[d])
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1554, in transition
+    state = func(ts, **kwargs)
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1629, in transition_flight_memory
+    self.batched_stream.send({"op": "add-keys", "keys": [ts.key]})
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/batched.py", line 136, in send
+    raise CommClosedError()
+distributed.comm.core.CommClosedError
+distributed.worker - ERROR - ('waiting', 'executing')
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x2b516ec79510>>, <Task finished coro=<Worker.ensure_computing() done, defined at /scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py:2525> exception=KeyError(('waiting', 'executing'))>)
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 741, in _run_callback
+    ret = callback()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 765, in _discard_future_result
+    future.result()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+distributed.worker - INFO - Comm closed
+distributed.core - INFO - Event loop was unresponsive in Worker for 4.28s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 4.17s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 4.30s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.worker - INFO - Comm closed
+distributed.core - INFO - Event loop was unresponsive in Worker for 4.11s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 4.13s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 4.16s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.worker - INFO - Comm closed
+distributed.core - INFO - Event loop was unresponsive in Worker for 4.20s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.worker - INFO - Comm closed
+distributed.worker - INFO - Comm closed
+distributed.core - INFO - Event loop was unresponsive in Worker for 4.33s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.worker - ERROR - ('waiting', 'executing')
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x2b62e7dad3d0>>, <Task finished coro=<Worker.ensure_computing() done, defined at /scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py:2525> exception=KeyError(('waiting', 'executing'))>)
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 741, in _run_callback
+    ret = callback()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 765, in _discard_future_result
+    future.result()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+distributed.worker - INFO - Comm closed
+distributed.worker - INFO - Comm closed
+distributed.worker - INFO - Comm closed
+distributed.worker - INFO - Comm closed
+distributed.worker - INFO - Comm closed
+distributed.worker - ERROR - ('waiting', 'executing')
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x2ae593a72490>>, <Task finished coro=<Worker.ensure_computing() done, defined at /scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py:2525> exception=KeyError(('waiting', 'executing'))>)
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 741, in _run_callback
+    ret = callback()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 765, in _discard_future_result
+    future.result()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+distributed.worker - ERROR - ('waiting', 'executing')
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x2b516ec79510>>, <Task finished coro=<Worker.ensure_computing() done, defined at /scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py:2525> exception=KeyError(('waiting', 'executing'))>)
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 741, in _run_callback
+    ret = callback()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 765, in _discard_future_result
+    future.result()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+distributed.worker - INFO - Comm closed
+distributed.worker - INFO - Comm closed
+distributed.core - INFO - Event loop was unresponsive in Worker for 4.08s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.worker - INFO - Comm closed
+distributed.core - INFO - Event loop was unresponsive in Worker for 4.09s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.worker - ERROR - ('waiting', 'executing')
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x2b521d372c10>>, <Task finished coro=<Worker.ensure_computing() done, defined at /scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py:2525> exception=KeyError(('waiting', 'executing'))>)
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 741, in _run_callback
+    ret = callback()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 765, in _discard_future_result
+    future.result()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+distributed.worker - ERROR - ('waiting', 'executing')
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x2b077cb05450>>, <Task finished coro=<Worker.ensure_computing() done, defined at /scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py:2525> exception=KeyError(('waiting', 'executing'))>)
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 741, in _run_callback
+    ret = callback()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 765, in _discard_future_result
+    future.result()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+distributed.core - INFO - Event loop was unresponsive in Worker for 4.28s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.worker - ERROR - ('waiting', 'executing')
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x2b9be6a36dd0>>, <Task finished coro=<Worker.ensure_computing() done, defined at /scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py:2525> exception=KeyError(('waiting', 'executing'))>)
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 741, in _run_callback
+    ret = callback()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 765, in _discard_future_result
+    future.result()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+distributed.core - INFO - Event loop was unresponsive in Worker for 4.02s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 4.14s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.worker - ERROR - ('waiting', 'executing')
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x2b3477d34650>>, <Task finished coro=<Worker.ensure_computing() done, defined at /scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py:2525> exception=KeyError(('waiting', 'executing'))>)
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 741, in _run_callback
+    ret = callback()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 765, in _discard_future_result
+    future.result()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+distributed.worker - ERROR - ('waiting', 'executing')
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x2b521d372c10>>, <Task finished coro=<Worker.ensure_computing() done, defined at /scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py:2525> exception=KeyError(('waiting', 'executing'))>)
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 741, in _run_callback
+    ret = callback()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 765, in _discard_future_result
+    future.result()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+distributed.worker - ERROR - ('waiting', 'executing')
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x2b3477d34650>>, <Task finished coro=<Worker.ensure_computing() done, defined at /scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py:2525> exception=KeyError(('waiting', 'executing'))>)
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 741, in _run_callback
+    ret = callback()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 765, in _discard_future_result
+    future.result()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+distributed.worker - ERROR - ('waiting', 'executing')
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x2b62e7dad3d0>>, <Task finished coro=<Worker.ensure_computing() done, defined at /scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py:2525> exception=KeyError(('waiting', 'executing'))>)
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 741, in _run_callback
+    ret = callback()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 765, in _discard_future_result
+    future.result()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+distributed.worker - ERROR - ('waiting', 'executing')
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x2b675a6896d0>>, <Task finished coro=<Worker.ensure_computing() done, defined at /scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py:2525> exception=KeyError(('waiting', 'executing'))>)
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 741, in _run_callback
+    ret = callback()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 765, in _discard_future_result
+    future.result()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+distributed.worker - ERROR - ('waiting', 'executing')
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x2b62f3bfaad0>>, <Task finished coro=<Worker.ensure_computing() done, defined at /scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py:2525> exception=KeyError(('waiting', 'executing'))>)
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 741, in _run_callback
+    ret = callback()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 765, in _discard_future_result
+    future.result()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+distributed.worker - ERROR - ('waiting', 'executing')
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x2b8706f9eb90>>, <Task finished coro=<Worker.ensure_computing() done, defined at /scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py:2525> exception=KeyError(('waiting', 'executing'))>)
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 741, in _run_callback
+    ret = callback()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 765, in _discard_future_result
+    future.result()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+distributed.worker - ERROR - ('waiting', 'executing')
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x2af28a1c3950>>, <Task finished coro=<Worker.ensure_computing() done, defined at /scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py:2525> exception=KeyError(('waiting', 'executing'))>)
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 741, in _run_callback
+    ret = callback()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 765, in _discard_future_result
+    future.result()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+distributed.worker - ERROR - ('waiting', 'executing')
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x2b62e7dad3d0>>, <Task finished coro=<Worker.ensure_computing() done, defined at /scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py:2525> exception=KeyError(('waiting', 'executing'))>)
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 741, in _run_callback
+    ret = callback()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 765, in _discard_future_result
+    future.result()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+distributed.worker - ERROR - ('waiting', 'executing')
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x2b5e32991e50>>, <Task finished coro=<Worker.ensure_computing() done, defined at /scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py:2525> exception=KeyError(('waiting', 'executing'))>)
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 741, in _run_callback
+    ret = callback()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 765, in _discard_future_result
+    future.result()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+distributed.worker - ERROR - ('waiting', 'executing')
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x2b6aa1a13c50>>, <Task finished coro=<Worker.ensure_computing() done, defined at /scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py:2525> exception=KeyError(('waiting', 'executing'))>)
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 741, in _run_callback
+    ret = callback()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 765, in _discard_future_result
+    future.result()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+distributed.worker - ERROR - ('waiting', 'executing')
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+distributed.worker - ERROR - ('waiting', 'executing')
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2689, in execute
+    await self.ensure_computing()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x2b95475c6810>>, <Task finished coro=<Worker.execute() done, defined at /scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py:2570> exception=KeyError(('waiting', 'executing'))>)
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 741, in _run_callback
+    ret = callback()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 765, in _discard_future_result
+    future.result()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2689, in execute
+    await self.ensure_computing()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+distributed.worker - ERROR - ('waiting', 'executing')
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x2b516ec79510>>, <Task finished coro=<Worker.ensure_computing() done, defined at /scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py:2525> exception=KeyError(('waiting', 'executing'))>)
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 741, in _run_callback
+    ret = callback()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 765, in _discard_future_result
+    future.result()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+distributed.worker - ERROR - ('waiting', 'executing')
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x2b95475c6810>>, <Task finished coro=<Worker.ensure_computing() done, defined at /scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py:2525> exception=KeyError(('waiting', 'executing'))>)
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 741, in _run_callback
+    ret = callback()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 765, in _discard_future_result
+    future.result()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+distributed.core - INFO - Event loop was unresponsive in Worker for 3.96s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 3.82s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.

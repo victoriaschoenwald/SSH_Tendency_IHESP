@@ -1,0 +1,1 @@
+distributed.dask_worker - ERROR - Failed to launch worker.  You cannot use the --no-nanny argument when nprocs > 1.

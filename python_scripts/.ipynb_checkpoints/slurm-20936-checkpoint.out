@@ -1,0 +1,204 @@
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.73.2.125:40446'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.73.2.125:33468'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.73.2.125:45465'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.73.2.125:39127'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.73.2.125:39405'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.73.2.125:41371'
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-kg9fsi9i', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-y37aph46', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-txccvye4', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-vkscv8ia', purging
+distributed.worker - INFO -       Start worker at:    tcp://10.73.2.125:43685
+distributed.worker - INFO -          Listening to:    tcp://10.73.2.125:43685
+distributed.worker - INFO -          dashboard at:          10.73.2.125:44054
+distributed.worker - INFO - Waiting to connect to:    tcp://10.73.2.125:43031
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:    tcp://10.73.2.125:43318
+distributed.worker - INFO -          Listening to:    tcp://10.73.2.125:43318
+distributed.worker - INFO -               Threads:                          2
+distributed.worker - INFO -          dashboard at:          10.73.2.125:34195
+distributed.worker - INFO -                Memory:                    8.33 GB
+distributed.worker - INFO - Waiting to connect to:    tcp://10.73.2.125:43031
+distributed.worker - INFO -       Local Directory: /scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-iie6vscd
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          2
+distributed.worker - INFO -                Memory:                    8.33 GB
+distributed.worker - INFO -       Local Directory: /scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-ikw2ks3v
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:    tcp://10.73.2.125:45170
+distributed.worker - INFO -          Listening to:    tcp://10.73.2.125:45170
+distributed.worker - INFO -          dashboard at:          10.73.2.125:43079
+distributed.worker - INFO - Waiting to connect to:    tcp://10.73.2.125:43031
+distributed.worker - INFO -       Start worker at:    tcp://10.73.2.125:39712
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -          Listening to:    tcp://10.73.2.125:39712
+distributed.worker - INFO -          dashboard at:          10.73.2.125:34702
+distributed.worker - INFO -               Threads:                          2
+distributed.worker - INFO - Waiting to connect to:    tcp://10.73.2.125:43031
+distributed.worker - INFO -                Memory:                    8.33 GB
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Local Directory: /scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-yyp0xqw4
+distributed.worker - INFO -               Threads:                          2
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -                Memory:                    8.33 GB
+distributed.worker - INFO -       Local Directory: /scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-rcdpgi0g
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:    tcp://10.73.2.125:36673
+distributed.worker - INFO -          Listening to:    tcp://10.73.2.125:36673
+distributed.worker - INFO -          dashboard at:          10.73.2.125:33383
+distributed.worker - INFO - Waiting to connect to:    tcp://10.73.2.125:43031
+distributed.worker - INFO -       Start worker at:    tcp://10.73.2.125:42882
+distributed.worker - INFO -          Listening to:    tcp://10.73.2.125:42882
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          2
+distributed.worker - INFO -                Memory:                    8.33 GB
+distributed.worker - INFO -       Local Directory: /scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-qui6deok
+distributed.worker - INFO -          dashboard at:          10.73.2.125:43566
+distributed.worker - INFO - Waiting to connect to:    tcp://10.73.2.125:43031
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          2
+distributed.worker - INFO -                Memory:                    8.33 GB
+distributed.worker - INFO -       Local Directory: /scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-yif7hqfx
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:    tcp://10.73.2.125:43031
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:    tcp://10.73.2.125:43031
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:    tcp://10.73.2.125:43031
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:    tcp://10.73.2.125:43031
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:    tcp://10.73.2.125:43031
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:    tcp://10.73.2.125:43031
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.core - INFO - Event loop was unresponsive in Worker for 3.83s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 3.83s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 3.79s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 3.80s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 3.82s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 3.86s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.worker - ERROR - ('waiting', 'executing')
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x2b4575e2c710>>, <Task finished coro=<Worker.ensure_computing() done, defined at /scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py:2525> exception=KeyError(('waiting', 'executing'))>)
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 741, in _run_callback
+    ret = callback()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 765, in _discard_future_result
+    future.result()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+distributed.worker - ERROR - ('waiting', 'executing')
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+distributed.worker - ERROR - ('waiting', 'executing')
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x2b4575e2c710>>, <Task finished coro=<Worker.ensure_computing() done, defined at /scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py:2525> exception=KeyError(('waiting', 'executing'))>)
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 741, in _run_callback
+    ret = callback()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 765, in _discard_future_result
+    future.result()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x2b4575e2c710>>, <Task finished coro=<Worker.ensure_computing() done, defined at /scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py:2525> exception=KeyError(('waiting', 'executing'))>)
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 741, in _run_callback
+    ret = callback()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 765, in _discard_future_result
+    future.result()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+distributed.core - INFO - Event loop was unresponsive in Worker for 3.54s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 3.47s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 3.30s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 3.16s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 3.21s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 3.09s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.utils_perf - INFO - full garbage collection released 178.56 MB from 569 reference cycles (threshold: 10.00 MB)
+distributed.core - INFO - Event loop was unresponsive in Worker for 3.34s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.utils_perf - INFO - full garbage collection released 98.30 MB from 44690 reference cycles (threshold: 10.00 MB)
+distributed.utils_perf - INFO - full garbage collection released 93.10 MB from 43850 reference cycles (threshold: 10.00 MB)
+distributed.utils_perf - INFO - full garbage collection released 112.57 MB from 59978 reference cycles (threshold: 10.00 MB)
+distributed.utils_perf - INFO - full garbage collection released 28.88 MB from 10893 reference cycles (threshold: 10.00 MB)
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - WARNING - Heartbeat to scheduler failed
+distributed.worker - INFO - Stopping worker at tcp://10.73.2.125:36673
+distributed.worker - INFO - Stopping worker at tcp://10.73.2.125:39712
+distributed.worker - INFO - Stopping worker at tcp://10.73.2.125:42882
+distributed.worker - INFO - Stopping worker at tcp://10.73.2.125:45170
+distributed.worker - INFO - Stopping worker at tcp://10.73.2.125:43318
+distributed.client - ERROR - Failed to reconnect to scheduler after 10.00 seconds, closing client
+distributed.client - ERROR - Failed to reconnect to scheduler after 10.00 seconds, closing client
+distributed.client - ERROR - Failed to reconnect to scheduler after 10.00 seconds, closing client
+distributed.client - ERROR - Failed to reconnect to scheduler after 10.00 seconds, closing client
+distributed.client - ERROR - Failed to reconnect to scheduler after 10.00 seconds, closing client
+distributed.client - ERROR - Failed to reconnect to scheduler after 10.00 seconds, closing client
+_GatheringFuture exception was never retrieved
+future: <_GatheringFuture finished exception=CancelledError()>
+concurrent.futures._base.CancelledError
+_GatheringFuture exception was never retrieved
+future: <_GatheringFuture finished exception=CancelledError()>
+concurrent.futures._base.CancelledError
+_GatheringFuture exception was never retrieved
+future: <_GatheringFuture finished exception=CancelledError()>
+concurrent.futures._base.CancelledError
+_GatheringFuture exception was never retrieved
+future: <_GatheringFuture finished exception=CancelledError()>
+concurrent.futures._base.CancelledError
+_GatheringFuture exception was never retrieved
+future: <_GatheringFuture finished exception=CancelledError()>
+concurrent.futures._base.CancelledError
+_GatheringFuture exception was never retrieved
+future: <_GatheringFuture finished exception=CancelledError()>
+concurrent.futures._base.CancelledError
+distributed.worker - INFO - Stopping worker at tcp://10.73.2.125:43685
+distributed.nanny - INFO - Worker closed
+distributed.nanny - INFO - Worker closed
+distributed.nanny - INFO - Worker closed
+distributed.nanny - INFO - Worker closed
+distributed.nanny - INFO - Worker closed
+distributed.nanny - INFO - Worker closed
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.73.2.125:39405'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.73.2.125:33468'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.73.2.125:41371'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.73.2.125:40446'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.73.2.125:45465'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.73.2.125:39127'
+distributed.dask_worker - INFO - End worker

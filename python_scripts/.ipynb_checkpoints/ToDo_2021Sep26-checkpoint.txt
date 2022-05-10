@@ -1,0 +1,6 @@
+To do: 
+1 vertical profile plot, add T, S change
+2 plot AMOC-hst, AMOC-hm regression 
+3 add a contour plot      HR   LR
+Vspd trend
+Vspd-AMOC regression

@@ -1,0 +1,102 @@
+/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/node.py:155: UserWarning: Port 8787 is already in use.
+Perhaps you already have a cluster running?
+Hosting the HTTP server on port 37058 instead
+  http_address["port"], self.http_server.port
+#!/usr/bin/env bash
+
+#SBATCH -J dask-worker
+#SBATCH -n 1
+#SBATCH --cpus-per-task=32
+#SBATCH --mem=123G
+#SBATCH -t 17:00:00
+
+/scratch/group/ihesp/shared/conda/envs/envMar25/bin/python -m distributed.cli.dask_worker tcp://10.73.1.121:35172 --nthreads 2 --nprocs 16 --memory-limit 8.25GB --name dummy-name --nanny --death-timeout 60 --protocol tcp://
+
+working on year 250
+working on year 251
+working on year 252
+working on year 253
+working on year 254
+working on year 255
+working on year 256
+working on year 257
+working on year 258
+working on year 259
+working on year 260
+working on year 261
+working on year 262
+working on year 263
+working on year 264
+working on year 265
+working on year 266
+working on year 267
+working on year 268
+working on year 269
+working on year 270
+working on year 271
+working on year 272
+working on year 273
+working on year 274
+working on year 275
+working on year 276
+working on year 277
+working on year 278
+working on year 279
+working on year 280
+working on year 281
+working on year 282
+working on year 283
+working on year 284
+working on year 285
+working on year 286
+working on year 287
+working on year 288
+working on year 289
+working on year 290
+working on year 291
+working on year 292
+working on year 293
+working on year 294
+working on year 295
+working on year 296
+working on year 297
+working on year 298
+working on year 299
+working on year 300
+working on year 301
+working on year 302
+working on year 303
+working on year 304
+working on year 305
+Traceback (most recent call last):
+  File "saveRegionalStericHeightSunwayCH_2021Apr15.py", line 77, in <module>
+    h_rst.to_netcdf(path=outfile, mode='w', format='NETCDF4', compute=True)
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/xarray/core/dataarray.py", line 2741, in to_netcdf
+    return dataset.to_netcdf(*args, **kwargs)
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/xarray/core/dataset.py", line 1699, in to_netcdf
+    invalid_netcdf=invalid_netcdf,
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/xarray/backends/api.py", line 1116, in to_netcdf
+    writes = writer.sync(compute=compute)
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/xarray/backends/common.py", line 162, in sync
+    regions=self.regions,
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/dask/array/core.py", line 1041, in store
+    result.compute(**kwargs)
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/dask/base.py", line 283, in compute
+    (result,) = compute(self, traverse=False, **kwargs)
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/dask/base.py", line 565, in compute
+    results = schedule(dsk, keys, **kwargs)
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/client.py", line 2654, in get
+    results = self.gather(packed, asynchronous=asynchronous, direct=direct)
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/client.py", line 1969, in gather
+    asynchronous=asynchronous,
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/client.py", line 838, in sync
+    self.loop, func, *args, callback_timeout=callback_timeout, **kwargs
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/utils.py", line 351, in sync
+    raise exc.with_traceback(tb)
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/utils.py", line 334, in f
+    result[0] = yield future
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/gen.py", line 762, in run
+    value = future.result()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/client.py", line 1828, in _gather
+    raise exception.with_traceback(traceback)
+distributed.scheduler.KilledWorker: ("('xarray-<this-array>-f6815e2648ab9bcb9477fb7664f249d7', 1, 0, 1, 4)", <Worker 'tcp://10.73.3.229:35245', name: 0-10, memory: 0, processing: 41>)

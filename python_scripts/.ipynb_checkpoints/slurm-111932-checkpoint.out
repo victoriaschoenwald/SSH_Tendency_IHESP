@@ -1,0 +1,257 @@
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.73.1.242:44001'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.73.1.242:45092'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.73.1.242:44193'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.73.1.242:40522'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.73.1.242:35091'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.73.1.242:45972'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.73.1.242:37626'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.73.1.242:40242'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.73.1.242:44169'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.73.1.242:39913'
+distributed.worker - INFO -       Start worker at:    tcp://10.73.1.242:40861
+distributed.worker - INFO -          Listening to:    tcp://10.73.1.242:40861
+distributed.worker - INFO -          dashboard at:          10.73.1.242:45439
+distributed.worker - INFO - Waiting to connect to:    tcp://10.73.1.242:37360
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                   21.00 GB
+distributed.worker - INFO -       Local Directory: /scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-nf_ecsvl
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:    tcp://10.73.1.242:41143
+distributed.worker - INFO -          Listening to:    tcp://10.73.1.242:41143
+distributed.worker - INFO -          dashboard at:          10.73.1.242:38672
+distributed.worker - INFO - Waiting to connect to:    tcp://10.73.1.242:37360
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                   21.00 GB
+distributed.worker - INFO -       Local Directory: /scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-amtzpkfe
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:    tcp://10.73.1.242:35206
+distributed.worker - INFO -          Listening to:    tcp://10.73.1.242:35206
+distributed.worker - INFO -          dashboard at:          10.73.1.242:39232
+distributed.worker - INFO - Waiting to connect to:    tcp://10.73.1.242:37360
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                   21.00 GB
+distributed.worker - INFO -       Local Directory: /scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-fjojq6cp
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:    tcp://10.73.1.242:37360
+distributed.worker - INFO -       Start worker at:    tcp://10.73.1.242:38186
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -          Listening to:    tcp://10.73.1.242:38186
+distributed.worker - INFO -          dashboard at:          10.73.1.242:37166
+distributed.worker - INFO - Waiting to connect to:    tcp://10.73.1.242:37360
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                   21.00 GB
+distributed.worker - INFO -       Local Directory: /scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-uq9ld1wh
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -       Start worker at:    tcp://10.73.1.242:38143
+distributed.worker - INFO -          Listening to:    tcp://10.73.1.242:38143
+distributed.worker - INFO -          dashboard at:          10.73.1.242:36509
+distributed.worker - INFO - Waiting to connect to:    tcp://10.73.1.242:37360
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                   21.00 GB
+distributed.worker - INFO -       Local Directory: /scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-5icnuscf
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:    tcp://10.73.1.242:37360
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -       Start worker at:    tcp://10.73.1.242:37988
+distributed.worker - INFO -          Listening to:    tcp://10.73.1.242:37988
+distributed.worker - INFO -          dashboard at:          10.73.1.242:33654
+distributed.worker - INFO - Waiting to connect to:    tcp://10.73.1.242:37360
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -       Start worker at:    tcp://10.73.1.242:43864
+distributed.worker - INFO -                Memory:                   21.00 GB
+distributed.worker - INFO -       Local Directory: /scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-1g91pc5r
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -          Listening to:    tcp://10.73.1.242:43864
+distributed.worker - INFO -          dashboard at:          10.73.1.242:38063
+distributed.worker - INFO - Waiting to connect to:    tcp://10.73.1.242:37360
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:    tcp://10.73.1.242:33770
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                   21.00 GB
+distributed.worker - INFO -       Local Directory: /scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-2gwz07_i
+distributed.worker - INFO -          Listening to:    tcp://10.73.1.242:33770
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -          dashboard at:          10.73.1.242:33168
+distributed.worker - INFO - Waiting to connect to:    tcp://10.73.1.242:37360
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                   21.00 GB
+distributed.worker - INFO -       Local Directory: /scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-o1aa9f0h
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:    tcp://10.73.1.242:37360
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -       Start worker at:    tcp://10.73.1.242:39798
+distributed.worker - INFO -          Listening to:    tcp://10.73.1.242:39798
+distributed.worker - INFO -          dashboard at:          10.73.1.242:38746
+distributed.worker - INFO -         Registered to:    tcp://10.73.1.242:37360
+distributed.worker - INFO - Waiting to connect to:    tcp://10.73.1.242:37360
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                   21.00 GB
+distributed.worker - INFO -       Local Directory: /scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-2_bme9dy
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:    tcp://10.73.1.242:37360
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -       Start worker at:    tcp://10.73.1.242:42995
+distributed.worker - INFO -          Listening to:    tcp://10.73.1.242:42995
+distributed.worker - INFO -          dashboard at:          10.73.1.242:37897
+distributed.worker - INFO - Waiting to connect to:    tcp://10.73.1.242:37360
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                   21.00 GB
+distributed.worker - INFO -       Local Directory: /scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-9nky27fh
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:    tcp://10.73.1.242:37360
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:    tcp://10.73.1.242:37360
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:    tcp://10.73.1.242:37360
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:    tcp://10.73.1.242:37360
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:    tcp://10.73.1.242:37360
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.core - INFO - Event loop was unresponsive in Worker for 11.97s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 11.90s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 12.11s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 11.92s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 12.07s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 12.12s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 12.19s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 12.12s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 12.33s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 12.24s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 4.46s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 6.05s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 6.94s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 7.33s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 7.17s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 7.12s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 7.11s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 7.61s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 7.36s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 7.68s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.utils_perf - INFO - full garbage collection released 118.85 MB from 3825 reference cycles (threshold: 10.00 MB)
+distributed.utils_perf - INFO - full garbage collection released 118.88 MB from 603 reference cycles (threshold: 10.00 MB)
+/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/dask/array/numpy_compat.py:40: RuntimeWarning: invalid value encountered in true_divide
+  x = np.divide(x1, x2, out)
+/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/dask/array/numpy_compat.py:40: RuntimeWarning: invalid value encountered in true_divide
+  x = np.divide(x1, x2, out)
+/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/dask/array/numpy_compat.py:40: RuntimeWarning: invalid value encountered in true_divide
+  x = np.divide(x1, x2, out)
+distributed.utils_perf - INFO - full garbage collection released 118.98 MB from 710 reference cycles (threshold: 10.00 MB)
+/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/dask/array/numpy_compat.py:40: RuntimeWarning: invalid value encountered in true_divide
+  x = np.divide(x1, x2, out)
+/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/dask/array/numpy_compat.py:40: RuntimeWarning: invalid value encountered in true_divide
+  x = np.divide(x1, x2, out)
+/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/dask/array/numpy_compat.py:40: RuntimeWarning: invalid value encountered in true_divide
+  x = np.divide(x1, x2, out)
+distributed.utils_perf - INFO - full garbage collection released 89.12 MB from 1528 reference cycles (threshold: 10.00 MB)
+/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/dask/array/numpy_compat.py:40: RuntimeWarning: invalid value encountered in true_divide
+  x = np.divide(x1, x2, out)
+distributed.utils_perf - INFO - full garbage collection released 115.74 MB from 3781 reference cycles (threshold: 10.00 MB)
+/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/dask/array/numpy_compat.py:40: RuntimeWarning: invalid value encountered in true_divide
+  x = np.divide(x1, x2, out)
+distributed.utils_perf - INFO - full garbage collection released 469.96 MB from 4036 reference cycles (threshold: 10.00 MB)
+distributed.utils_perf - INFO - full garbage collection released 234.86 MB from 5012 reference cycles (threshold: 10.00 MB)
+distributed.utils_perf - INFO - full garbage collection released 118.84 MB from 741 reference cycles (threshold: 10.00 MB)
+/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/dask/array/numpy_compat.py:40: RuntimeWarning: invalid value encountered in true_divide
+  x = np.divide(x1, x2, out)
+/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/dask/array/numpy_compat.py:40: RuntimeWarning: invalid value encountered in true_divide
+  x = np.divide(x1, x2, out)
+distributed.utils_perf - INFO - full garbage collection released 475.90 MB from 3096 reference cycles (threshold: 10.00 MB)
+distributed.core - INFO - Event loop was unresponsive in Nanny for 3.49s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 3.47s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 4.73s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 4.57s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 4.80s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Nanny for 3.77s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Nanny for 3.77s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Nanny for 3.77s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Nanny for 3.77s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Nanny for 3.77s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Nanny for 3.77s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Nanny for 3.75s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Nanny for 3.75s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Nanny for 3.75s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 5.11s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 4.81s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 4.94s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 5.00s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 5.00s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 3.44s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 3.58s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 3.13s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 4.08s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 3.94s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 3.79s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 4.28s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 4.51s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 4.28s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 4.24s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 6.89s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 4.70s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 4.68s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 7.65s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.utils_perf - INFO - full garbage collection released 118.48 MB from 5770 reference cycles (threshold: 10.00 MB)
+distributed.utils_perf - INFO - full garbage collection released 118.88 MB from 1414 reference cycles (threshold: 10.00 MB)
+distributed.core - INFO - Event loop was unresponsive in Worker for 3.13s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 3.04s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Stopping worker at tcp://10.73.1.242:33770
+distributed.worker - INFO - Stopping worker at tcp://10.73.1.242:41143
+distributed.worker - INFO - Stopping worker at tcp://10.73.1.242:38186
+distributed.worker - INFO - Stopping worker at tcp://10.73.1.242:38143
+distributed.worker - INFO - Stopping worker at tcp://10.73.1.242:42995
+distributed.worker - INFO - Stopping worker at tcp://10.73.1.242:37988
+distributed.worker - INFO - Stopping worker at tcp://10.73.1.242:40861
+distributed.worker - INFO - Stopping worker at tcp://10.73.1.242:35206
+distributed.worker - INFO - Stopping worker at tcp://10.73.1.242:43864
+distributed.worker - INFO - Stopping worker at tcp://10.73.1.242:39798
+distributed.nanny - INFO - Worker closed
+distributed.nanny - INFO - Worker closed
+distributed.nanny - INFO - Worker closed
+distributed.nanny - INFO - Worker closed
+distributed.nanny - INFO - Worker closed
+distributed.nanny - INFO - Worker closed
+distributed.nanny - INFO - Worker closed
+distributed.nanny - INFO - Worker closed
+distributed.nanny - INFO - Worker closed
+distributed.nanny - INFO - Worker closed
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.73.1.242:44001'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.73.1.242:45092'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.73.1.242:40522'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.73.1.242:45972'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.73.1.242:39913'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.73.1.242:44193'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.73.1.242:44169'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.73.1.242:37626'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.73.1.242:40242'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.73.1.242:35091'
+distributed.dask_worker - INFO - End worker

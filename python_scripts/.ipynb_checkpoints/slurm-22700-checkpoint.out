@@ -1,0 +1,1454 @@
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.73.1.241:40891'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.73.1.241:34826'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.73.1.241:42347'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.73.1.241:33396'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.73.1.241:41067'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.73.1.241:38126'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.73.1.241:38323'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.73.1.241:34959'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.73.1.241:33472'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.73.1.241:35290'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.73.1.241:46016'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.73.1.241:36064'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.73.1.241:38762'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.73.1.241:40855'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.73.1.241:39358'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.73.1.241:34702'
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-tcr63kzg', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-kn4m0rny', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-i9tmn0dg', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-iuku78vo', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-6jbhsiqk', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-4wpajc0i', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-vpkbxjcm', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-zpjbkt37', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-nd1l19jk', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-waounw79', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-2gz99jg1', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-h_kvbd6e', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-vrq7hwd_', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-wsk66thq', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-z92x4f6u', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-0dc63id0', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-2z6zhvue', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-o_byh8gi', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-qbnny1qa', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-6fzpspad', purging
+distributed.worker - INFO -       Start worker at:    tcp://10.73.1.241:37193
+distributed.worker - INFO -       Start worker at:    tcp://10.73.1.241:38081
+distributed.worker - INFO -       Start worker at:    tcp://10.73.1.241:44583
+distributed.worker - INFO -       Start worker at:    tcp://10.73.1.241:37738
+distributed.worker - INFO -       Start worker at:    tcp://10.73.1.241:38167
+distributed.worker - INFO -          Listening to:    tcp://10.73.1.241:37193
+distributed.worker - INFO -       Start worker at:    tcp://10.73.1.241:43452
+distributed.worker - INFO -       Start worker at:    tcp://10.73.1.241:34288
+distributed.worker - INFO -          Listening to:    tcp://10.73.1.241:38081
+distributed.worker - INFO -          Listening to:    tcp://10.73.1.241:37738
+distributed.worker - INFO -          dashboard at:          10.73.1.241:41367
+distributed.worker - INFO -          Listening to:    tcp://10.73.1.241:34288
+distributed.worker - INFO -          Listening to:    tcp://10.73.1.241:44583
+distributed.worker - INFO -          dashboard at:          10.73.1.241:46619
+distributed.worker - INFO -          dashboard at:          10.73.1.241:40913
+distributed.worker - INFO - Waiting to connect to:    tcp://10.73.2.125:45748
+distributed.worker - INFO -          Listening to:    tcp://10.73.1.241:43452
+distributed.worker - INFO -          dashboard at:          10.73.1.241:38632
+distributed.worker - INFO - Waiting to connect to:    tcp://10.73.2.125:45748
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Waiting to connect to:    tcp://10.73.2.125:45748
+distributed.worker - INFO -          dashboard at:          10.73.1.241:40480
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -          dashboard at:          10.73.1.241:38748
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:    tcp://10.73.1.241:44735
+distributed.worker - INFO -       Start worker at:    tcp://10.73.1.241:38789
+distributed.worker - INFO -          Listening to:    tcp://10.73.1.241:44735
+distributed.worker - INFO -       Start worker at:    tcp://10.73.1.241:43806
+distributed.worker - INFO -       Start worker at:    tcp://10.73.1.241:32832
+distributed.worker - INFO -          dashboard at:          10.73.1.241:37847
+distributed.worker - INFO -       Start worker at:    tcp://10.73.1.241:36837
+distributed.worker - INFO -          Listening to:    tcp://10.73.1.241:38789
+distributed.worker - INFO -       Start worker at:    tcp://10.73.1.241:43388
+distributed.worker - INFO - Waiting to connect to:    tcp://10.73.2.125:45748
+distributed.worker - INFO -          Listening to:    tcp://10.73.1.241:43806
+distributed.worker - INFO -          Listening to:    tcp://10.73.1.241:32832
+distributed.worker - INFO -          dashboard at:          10.73.1.241:38106
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -          Listening to:    tcp://10.73.1.241:36837
+distributed.worker - INFO -          dashboard at:          10.73.1.241:39454
+distributed.worker - INFO -          dashboard at:          10.73.1.241:35257
+distributed.worker - INFO -          Listening to:    tcp://10.73.1.241:43388
+distributed.worker - INFO - Waiting to connect to:    tcp://10.73.2.125:45748
+distributed.worker - INFO -       Start worker at:    tcp://10.73.1.241:38197
+distributed.worker - INFO -          dashboard at:          10.73.1.241:38403
+distributed.worker - INFO - Waiting to connect to:    tcp://10.73.2.125:45748
+distributed.worker - INFO - Waiting to connect to:    tcp://10.73.2.125:45748
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -          dashboard at:          10.73.1.241:37275
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO - Waiting to connect to:    tcp://10.73.2.125:45748
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -          Listening to:    tcp://10.73.1.241:38197
+distributed.worker - INFO - Waiting to connect to:    tcp://10.73.2.125:45748
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -                Memory:                   10.38 GB
+distributed.worker - INFO -       Start worker at:    tcp://10.73.1.241:40821
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -          dashboard at:          10.73.1.241:41934
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -       Local Directory: /scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-gugvwiou
+distributed.worker - INFO -       Start worker at:    tcp://10.73.1.241:44495
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO - Waiting to connect to:    tcp://10.73.2.125:45748
+distributed.worker - INFO -                Memory:                   10.38 GB
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -          Listening to:    tcp://10.73.1.241:40821
+distributed.worker - INFO -                Memory:                   10.38 GB
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -                Memory:                   10.38 GB
+distributed.worker - INFO -       Local Directory: /scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-cdydszao
+distributed.worker - INFO -          Listening to:    tcp://10.73.1.241:44495
+distributed.worker - INFO -                Memory:                   10.38 GB
+distributed.worker - INFO -       Local Directory: /scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-72e32oyg
+distributed.worker - INFO -          dashboard at:          10.73.1.241:46578
+distributed.worker - INFO -                Memory:                   10.38 GB
+distributed.worker - INFO -       Local Directory: /scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-gesxsa8q
+distributed.worker - INFO -       Local Directory: /scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-efzam4ub
+distributed.worker - INFO -          dashboard at:          10.73.1.241:39366
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Local Directory: /scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-9257kl1z
+distributed.worker - INFO - Waiting to connect to:    tcp://10.73.2.125:45748
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Waiting to connect to:    tcp://10.73.2.125:45748
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -                Memory:                   10.38 GB
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -          Listening to:    tcp://10.73.1.241:38167
+distributed.worker - INFO -       Local Directory: /scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-3p2xqhle
+distributed.worker - INFO - Waiting to connect to:    tcp://10.73.2.125:45748
+distributed.worker - INFO - Waiting to connect to:    tcp://10.73.2.125:45748
+distributed.worker - INFO - Waiting to connect to:    tcp://10.73.2.125:45748
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -          dashboard at:          10.73.1.241:36147
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -                Memory:                   10.38 GB
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Waiting to connect to:    tcp://10.73.2.125:45748
+distributed.worker - INFO -                Memory:                   10.38 GB
+distributed.worker - INFO -       Local Directory: /scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-3tjxackv
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Local Directory: /scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-i3i6bvt8
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                   10.38 GB
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -       Local Directory: /scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-hqwxwvze
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                   10.38 GB
+distributed.worker - INFO -                Memory:                   10.38 GB
+distributed.worker - INFO -                Memory:                   10.38 GB
+distributed.worker - INFO -                Memory:                   10.38 GB
+distributed.worker - INFO -                Memory:                   10.38 GB
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Local Directory: /scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-fng99fd7
+distributed.worker - INFO -       Local Directory: /scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-9me1uo0q
+distributed.worker - INFO -       Local Directory: /scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-pcdi3f6t
+distributed.worker - INFO -       Local Directory: /scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-dvxkve62
+distributed.worker - INFO -       Local Directory: /scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-e1a_xp71
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -                Memory:                   10.38 GB
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Local Directory: /scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-xqc7gv4t
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:    tcp://10.73.2.125:45748
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:    tcp://10.73.2.125:45748
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:    tcp://10.73.2.125:45748
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:    tcp://10.73.2.125:45748
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:    tcp://10.73.2.125:45748
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:    tcp://10.73.2.125:45748
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:    tcp://10.73.2.125:45748
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:    tcp://10.73.2.125:45748
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:    tcp://10.73.2.125:45748
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:    tcp://10.73.2.125:45748
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:    tcp://10.73.2.125:45748
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:    tcp://10.73.2.125:45748
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:    tcp://10.73.2.125:45748
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:    tcp://10.73.2.125:45748
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:    tcp://10.73.2.125:45748
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:    tcp://10.73.2.125:45748
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.core - INFO - Event loop was unresponsive in Worker for 8.44s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.worker - ERROR - ('waiting', 'executing')
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+distributed.worker - ERROR - ('waiting', 'executing')
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+distributed.worker - ERROR - ('waiting', 'executing')
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x2b8d6295ccd0>>, <Task finished coro=<Worker.ensure_computing() done, defined at /scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py:2525> exception=KeyError(('waiting', 'executing'))>)
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 741, in _run_callback
+    ret = callback()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 765, in _discard_future_result
+    future.result()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x2b8d6295ccd0>>, <Task finished coro=<Worker.ensure_computing() done, defined at /scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py:2525> exception=KeyError(('waiting', 'executing'))>)
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 741, in _run_callback
+    ret = callback()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 765, in _discard_future_result
+    future.result()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x2b8d6295ccd0>>, <Task finished coro=<Worker.ensure_computing() done, defined at /scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py:2525> exception=KeyError(('waiting', 'executing'))>)
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 741, in _run_callback
+    ret = callback()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 765, in _discard_future_result
+    future.result()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+distributed.worker - ERROR - ('waiting', 'executing')
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+distributed.worker - ERROR - ('waiting', 'executing')
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+distributed.worker - ERROR - ('waiting', 'executing')
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x2ba65e584750>>, <Task finished coro=<Worker.ensure_computing() done, defined at /scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py:2525> exception=KeyError(('waiting', 'executing'))>)
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 741, in _run_callback
+    ret = callback()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 765, in _discard_future_result
+    future.result()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x2ba65e584750>>, <Task finished coro=<Worker.ensure_computing() done, defined at /scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py:2525> exception=KeyError(('waiting', 'executing'))>)
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 741, in _run_callback
+    ret = callback()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 765, in _discard_future_result
+    future.result()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x2ba65e584750>>, <Task finished coro=<Worker.ensure_computing() done, defined at /scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py:2525> exception=KeyError(('waiting', 'executing'))>)
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 741, in _run_callback
+    ret = callback()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 765, in _discard_future_result
+    future.result()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+distributed.worker - ERROR - ('waiting', 'executing')
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+distributed.worker - ERROR - ('waiting', 'executing')
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2689, in execute
+    await self.ensure_computing()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x2ad820b21550>>, <Task finished coro=<Worker.execute() done, defined at /scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py:2570> exception=KeyError(('waiting', 'executing'))>)
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 741, in _run_callback
+    ret = callback()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 765, in _discard_future_result
+    future.result()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2689, in execute
+    await self.ensure_computing()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+distributed.worker - ERROR - ('waiting', 'executing')
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+distributed.worker - ERROR - ('waiting', 'executing')
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x2ad820b21550>>, <Task finished coro=<Worker.ensure_computing() done, defined at /scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py:2525> exception=KeyError(('waiting', 'executing'))>)
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 741, in _run_callback
+    ret = callback()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 765, in _discard_future_result
+    future.result()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x2ad820b21550>>, <Task finished coro=<Worker.ensure_computing() done, defined at /scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py:2525> exception=KeyError(('waiting', 'executing'))>)
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 741, in _run_callback
+    ret = callback()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 765, in _discard_future_result
+    future.result()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+distributed.worker - ERROR - ('waiting', 'executing')
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x2aef234a9a10>>, <Task finished coro=<Worker.ensure_computing() done, defined at /scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py:2525> exception=KeyError(('waiting', 'executing'))>)
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 741, in _run_callback
+    ret = callback()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 765, in _discard_future_result
+    future.result()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+distributed.worker - ERROR - ('waiting', 'executing')
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+distributed.worker - ERROR - ('waiting', 'executing')
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x2aef234a9a10>>, <Task finished coro=<Worker.ensure_computing() done, defined at /scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py:2525> exception=KeyError(('waiting', 'executing'))>)
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 741, in _run_callback
+    ret = callback()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 765, in _discard_future_result
+    future.result()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x2aef234a9a10>>, <Task finished coro=<Worker.ensure_computing() done, defined at /scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py:2525> exception=KeyError(('waiting', 'executing'))>)
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 741, in _run_callback
+    ret = callback()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 765, in _discard_future_result
+    future.result()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+distributed.worker - ERROR - ('waiting', 'executing')
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+distributed.worker - ERROR - ('waiting', 'executing')
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2689, in execute
+    await self.ensure_computing()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x2adbc0798950>>, <Task finished coro=<Worker.execute() done, defined at /scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py:2570> exception=KeyError(('waiting', 'executing'))>)
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 741, in _run_callback
+    ret = callback()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 765, in _discard_future_result
+    future.result()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2689, in execute
+    await self.ensure_computing()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+distributed.worker - ERROR - ('waiting', 'executing')
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+distributed.worker - ERROR - ('waiting', 'executing')
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x2adbc0798950>>, <Task finished coro=<Worker.ensure_computing() done, defined at /scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py:2525> exception=KeyError(('waiting', 'executing'))>)
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 741, in _run_callback
+    ret = callback()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 765, in _discard_future_result
+    future.result()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x2adbc0798950>>, <Task finished coro=<Worker.ensure_computing() done, defined at /scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py:2525> exception=KeyError(('waiting', 'executing'))>)
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 741, in _run_callback
+    ret = callback()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 765, in _discard_future_result
+    future.result()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+distributed.worker - ERROR - ('waiting', 'executing')
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x2af884dd6650>>, <Task finished coro=<Worker.ensure_computing() done, defined at /scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py:2525> exception=KeyError(('waiting', 'executing'))>)
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 741, in _run_callback
+    ret = callback()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 765, in _discard_future_result
+    future.result()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+distributed.worker - ERROR - ('waiting', 'executing')
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x2b8d6295ccd0>>, <Task finished coro=<Worker.ensure_computing() done, defined at /scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py:2525> exception=KeyError(('waiting', 'executing'))>)
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 741, in _run_callback
+    ret = callback()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 765, in _discard_future_result
+    future.result()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+distributed.worker - ERROR - ('waiting', 'executing')
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x2b26992acad0>>, <Task finished coro=<Worker.ensure_computing() done, defined at /scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py:2525> exception=KeyError(('waiting', 'executing'))>)
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 741, in _run_callback
+    ret = callback()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 765, in _discard_future_result
+    future.result()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+distributed.worker - ERROR - ('waiting', 'executing')
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x2b2a91b84050>>, <Task finished coro=<Worker.ensure_computing() done, defined at /scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py:2525> exception=KeyError(('waiting', 'executing'))>)
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 741, in _run_callback
+    ret = callback()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 765, in _discard_future_result
+    future.result()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+distributed.worker - ERROR - ('waiting', 'executing')
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x2ba08f7975d0>>, <Task finished coro=<Worker.ensure_computing() done, defined at /scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py:2525> exception=KeyError(('waiting', 'executing'))>)
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 741, in _run_callback
+    ret = callback()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 765, in _discard_future_result
+    future.result()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+distributed.worker - ERROR - ('waiting', 'executing')
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+distributed.worker - ERROR - ('waiting', 'executing')
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x2ba08f7975d0>>, <Task finished coro=<Worker.ensure_computing() done, defined at /scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py:2525> exception=KeyError(('waiting', 'executing'))>)
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 741, in _run_callback
+    ret = callback()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 765, in _discard_future_result
+    future.result()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x2ba08f7975d0>>, <Task finished coro=<Worker.ensure_computing() done, defined at /scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py:2525> exception=KeyError(('waiting', 'executing'))>)
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 741, in _run_callback
+    ret = callback()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 765, in _discard_future_result
+    future.result()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+distributed.worker - ERROR - ('waiting', 'executing')
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x2ad820b21550>>, <Task finished coro=<Worker.ensure_computing() done, defined at /scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py:2525> exception=KeyError(('waiting', 'executing'))>)
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 741, in _run_callback
+    ret = callback()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 765, in _discard_future_result
+    future.result()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+distributed.worker - ERROR - ('waiting', 'executing')
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x2b2a91b84050>>, <Task finished coro=<Worker.ensure_computing() done, defined at /scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py:2525> exception=KeyError(('waiting', 'executing'))>)
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 741, in _run_callback
+    ret = callback()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 765, in _discard_future_result
+    future.result()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+distributed.worker - ERROR - Worker stream died during communication: tcp://10.73.1.241:32832
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/comm/core.py", line 319, in connect
+    handshake = await asyncio.wait_for(comm.read(), time_left())
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/asyncio/tasks.py", line 449, in wait_for
+    raise futures.TimeoutError()
+concurrent.futures._base.TimeoutError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2064, in gather_dep
+    self.rpc, deps, worker, who=self.address
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 3333, in get_data_from_worker
+    return await retry_operation(_get_data, operation="get_data_from_worker")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/utils_comm.py", line 389, in retry_operation
+    operation=operation,
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/utils_comm.py", line 369, in retry
+    return await coro()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 3310, in _get_data
+    comm = await rpc.connect(worker)
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/core.py", line 1013, in connect
+    **self.connection_args,
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/comm/core.py", line 326, in connect
+    ) from exc
+OSError: Timed out during handshake while connecting to tcp://10.73.1.241:32832 after 10 s
+distributed.worker - ERROR - Worker stream died during communication: tcp://10.73.1.241:36837
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/comm/core.py", line 319, in connect
+    handshake = await asyncio.wait_for(comm.read(), time_left())
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/asyncio/tasks.py", line 449, in wait_for
+    raise futures.TimeoutError()
+concurrent.futures._base.TimeoutError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2064, in gather_dep
+    self.rpc, deps, worker, who=self.address
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 3333, in get_data_from_worker
+    return await retry_operation(_get_data, operation="get_data_from_worker")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/utils_comm.py", line 389, in retry_operation
+    operation=operation,
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/utils_comm.py", line 369, in retry
+    return await coro()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 3310, in _get_data
+    comm = await rpc.connect(worker)
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/core.py", line 1013, in connect
+    **self.connection_args,
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/comm/core.py", line 326, in connect
+    ) from exc
+OSError: Timed out during handshake while connecting to tcp://10.73.1.241:36837 after 10 s
+distributed.worker - ERROR - ('waiting', 'executing')
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+distributed.worker - ERROR - ('waiting', 'executing')
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x2b3d5d53cd10>>, <Task finished coro=<Worker.ensure_computing() done, defined at /scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py:2525> exception=KeyError(('waiting', 'executing'))>)
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 741, in _run_callback
+    ret = callback()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 765, in _discard_future_result
+    future.result()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x2b3d5d53cd10>>, <Task finished coro=<Worker.ensure_computing() done, defined at /scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py:2525> exception=KeyError(('waiting', 'executing'))>)
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 741, in _run_callback
+    ret = callback()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 765, in _discard_future_result
+    future.result()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+distributed.worker - ERROR - Worker stream died during communication: tcp://10.73.1.241:36837
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/comm/core.py", line 319, in connect
+    handshake = await asyncio.wait_for(comm.read(), time_left())
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/asyncio/tasks.py", line 449, in wait_for
+    raise futures.TimeoutError()
+concurrent.futures._base.TimeoutError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2064, in gather_dep
+    self.rpc, deps, worker, who=self.address
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 3333, in get_data_from_worker
+    return await retry_operation(_get_data, operation="get_data_from_worker")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/utils_comm.py", line 389, in retry_operation
+    operation=operation,
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/utils_comm.py", line 369, in retry
+    return await coro()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 3310, in _get_data
+    comm = await rpc.connect(worker)
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/core.py", line 1013, in connect
+    **self.connection_args,
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/comm/core.py", line 326, in connect
+    ) from exc
+OSError: Timed out during handshake while connecting to tcp://10.73.1.241:36837 after 10 s
+distributed.worker - ERROR - Worker stream died during communication: tcp://10.73.1.241:36837
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/comm/core.py", line 319, in connect
+    handshake = await asyncio.wait_for(comm.read(), time_left())
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/asyncio/tasks.py", line 449, in wait_for
+    raise futures.TimeoutError()
+concurrent.futures._base.TimeoutError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2064, in gather_dep
+    self.rpc, deps, worker, who=self.address
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 3333, in get_data_from_worker
+    return await retry_operation(_get_data, operation="get_data_from_worker")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/utils_comm.py", line 389, in retry_operation
+    operation=operation,
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/utils_comm.py", line 369, in retry
+    return await coro()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 3310, in _get_data
+    comm = await rpc.connect(worker)
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/core.py", line 1013, in connect
+    **self.connection_args,
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/comm/core.py", line 326, in connect
+    ) from exc
+OSError: Timed out during handshake while connecting to tcp://10.73.1.241:36837 after 10 s
+distributed.worker - ERROR - Worker stream died during communication: tcp://10.73.1.241:36837
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/comm/core.py", line 319, in connect
+    handshake = await asyncio.wait_for(comm.read(), time_left())
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/asyncio/tasks.py", line 449, in wait_for
+    raise futures.TimeoutError()
+concurrent.futures._base.TimeoutError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2064, in gather_dep
+    self.rpc, deps, worker, who=self.address
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 3333, in get_data_from_worker
+    return await retry_operation(_get_data, operation="get_data_from_worker")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/utils_comm.py", line 389, in retry_operation
+    operation=operation,
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/utils_comm.py", line 369, in retry
+    return await coro()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 3310, in _get_data
+    comm = await rpc.connect(worker)
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/core.py", line 1013, in connect
+    **self.connection_args,
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/comm/core.py", line 326, in connect
+    ) from exc
+OSError: Timed out during handshake while connecting to tcp://10.73.1.241:36837 after 10 s
+distributed.worker - ERROR - Worker stream died during communication: tcp://10.73.1.241:36837
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/comm/core.py", line 319, in connect
+    handshake = await asyncio.wait_for(comm.read(), time_left())
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/asyncio/tasks.py", line 449, in wait_for
+    raise futures.TimeoutError()
+concurrent.futures._base.TimeoutError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2064, in gather_dep
+    self.rpc, deps, worker, who=self.address
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 3333, in get_data_from_worker
+    return await retry_operation(_get_data, operation="get_data_from_worker")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/utils_comm.py", line 389, in retry_operation
+    operation=operation,
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/utils_comm.py", line 369, in retry
+    return await coro()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 3310, in _get_data
+    comm = await rpc.connect(worker)
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/core.py", line 1013, in connect
+    **self.connection_args,
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/comm/core.py", line 326, in connect
+    ) from exc
+OSError: Timed out during handshake while connecting to tcp://10.73.1.241:36837 after 10 s
+distributed.worker - ERROR - Worker stream died during communication: tcp://10.73.1.241:32832
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/comm/core.py", line 319, in connect
+    handshake = await asyncio.wait_for(comm.read(), time_left())
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/asyncio/tasks.py", line 449, in wait_for
+    raise futures.TimeoutError()
+concurrent.futures._base.TimeoutError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2064, in gather_dep
+    self.rpc, deps, worker, who=self.address
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 3333, in get_data_from_worker
+    return await retry_operation(_get_data, operation="get_data_from_worker")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/utils_comm.py", line 389, in retry_operation
+    operation=operation,
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/utils_comm.py", line 369, in retry
+    return await coro()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 3310, in _get_data
+    comm = await rpc.connect(worker)
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/core.py", line 1013, in connect
+    **self.connection_args,
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/comm/core.py", line 326, in connect
+    ) from exc
+OSError: Timed out during handshake while connecting to tcp://10.73.1.241:32832 after 10 s
+distributed.core - INFO - Event loop was unresponsive in Worker for 16.61s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 22.15s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 16.73s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 20.79s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.comm.tcp - INFO - Connection closed before handshake completed
+distributed.comm.tcp - INFO - Connection closed before handshake completed
+distributed.comm.tcp - INFO - Connection closed before handshake completed
+distributed.comm.tcp - INFO - Connection closed before handshake completed
+distributed.comm.tcp - INFO - Connection closed before handshake completed
+distributed.core - INFO - Event loop was unresponsive in Worker for 16.55s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.comm.tcp - INFO - Connection closed before handshake completed
+distributed.comm.tcp - INFO - Connection closed before handshake completed
+distributed.worker - INFO - Can't find dependencies for key ('compute_eos-compute_eos_0-ac204bff8f29d2dbdf45134593f5083c', 0, 0, 0, 6)
+distributed.worker - INFO - Dependent not found: ('open_dataset-933b0f802800efff1f75b37e0021ad3bTEMP-3aac04856258d4dc0df5e74f7b54c91f', 0, 0, 0, 6) 0 .  Asking scheduler
+distributed.core - INFO - Event loop was unresponsive in Worker for 3.90s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 3.87s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 3.87s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 3.83s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.worker - ERROR - ('waiting', 'executing')
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x2ba08f7975d0>>, <Task finished coro=<Worker.ensure_computing() done, defined at /scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py:2525> exception=KeyError(('waiting', 'executing'))>)
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 741, in _run_callback
+    ret = callback()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 765, in _discard_future_result
+    future.result()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+distributed.core - INFO - Event loop was unresponsive in Worker for 3.81s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 3.86s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 3.81s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.worker - ERROR - ('waiting', 'executing')
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x2acbba5f46d0>>, <Task finished coro=<Worker.ensure_computing() done, defined at /scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py:2525> exception=KeyError(('waiting', 'executing'))>)
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 741, in _run_callback
+    ret = callback()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 765, in _discard_future_result
+    future.result()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+distributed.core - INFO - Event loop was unresponsive in Worker for 3.79s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.comm.tcp - INFO - Connection closed before handshake completed
+distributed.comm.tcp - INFO - Connection closed before handshake completed
+distributed.worker - ERROR - ('waiting', 'executing')
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x2b26992acad0>>, <Task finished coro=<Worker.ensure_computing() done, defined at /scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py:2525> exception=KeyError(('waiting', 'executing'))>)
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 741, in _run_callback
+    ret = callback()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 765, in _discard_future_result
+    future.result()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+distributed.worker - ERROR - ('waiting', 'executing')
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x2af884dd6650>>, <Task finished coro=<Worker.ensure_computing() done, defined at /scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py:2525> exception=KeyError(('waiting', 'executing'))>)
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 741, in _run_callback
+    ret = callback()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 765, in _discard_future_result
+    future.result()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+distributed.worker - ERROR - ('waiting', 'executing')
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x2b3d5d53cd10>>, <Task finished coro=<Worker.ensure_computing() done, defined at /scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py:2525> exception=KeyError(('waiting', 'executing'))>)
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 741, in _run_callback
+    ret = callback()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 765, in _discard_future_result
+    future.result()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+distributed.worker - ERROR - ('waiting', 'executing')
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x2ad820b21550>>, <Task finished coro=<Worker.ensure_computing() done, defined at /scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py:2525> exception=KeyError(('waiting', 'executing'))>)
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 741, in _run_callback
+    ret = callback()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 765, in _discard_future_result
+    future.result()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+distributed.worker - ERROR - ('waiting', 'executing')
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x2aef234a9a10>>, <Task finished coro=<Worker.ensure_computing() done, defined at /scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py:2525> exception=KeyError(('waiting', 'executing'))>)
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 741, in _run_callback
+    ret = callback()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 765, in _discard_future_result
+    future.result()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+distributed.core - INFO - Event loop was unresponsive in Worker for 3.79s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 3.74s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.worker - ERROR - ('waiting', 'executing')
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x2ba08f7975d0>>, <Task finished coro=<Worker.ensure_computing() done, defined at /scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py:2525> exception=KeyError(('waiting', 'executing'))>)
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 741, in _run_callback
+    ret = callback()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 765, in _discard_future_result
+    future.result()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+distributed.core - INFO - Event loop was unresponsive in Worker for 3.75s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.worker - ERROR - ('waiting', 'executing')
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x2b26992acad0>>, <Task finished coro=<Worker.ensure_computing() done, defined at /scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py:2525> exception=KeyError(('waiting', 'executing'))>)
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 741, in _run_callback
+    ret = callback()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 765, in _discard_future_result
+    future.result()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+distributed.worker - ERROR - ('waiting', 'executing')
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x2b26992acad0>>, <Task finished coro=<Worker.ensure_computing() done, defined at /scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py:2525> exception=KeyError(('waiting', 'executing'))>)
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 741, in _run_callback
+    ret = callback()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 765, in _discard_future_result
+    future.result()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+distributed.worker - ERROR - ('waiting', 'executing')
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x2ad820b21550>>, <Task finished coro=<Worker.ensure_computing() done, defined at /scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py:2525> exception=KeyError(('waiting', 'executing'))>)
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 741, in _run_callback
+    ret = callback()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 765, in _discard_future_result
+    future.result()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+distributed.worker - ERROR - ('waiting', 'executing')
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x2acc33ccb290>>, <Task finished coro=<Worker.ensure_computing() done, defined at /scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py:2525> exception=KeyError(('waiting', 'executing'))>)
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 741, in _run_callback
+    ret = callback()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 765, in _discard_future_result
+    future.result()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+distributed.worker - ERROR - ('waiting', 'executing')
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x2b8d6295ccd0>>, <Task finished coro=<Worker.ensure_computing() done, defined at /scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py:2525> exception=KeyError(('waiting', 'executing'))>)
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 741, in _run_callback
+    ret = callback()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 765, in _discard_future_result
+    future.result()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+distributed.worker - ERROR - ('waiting', 'executing')
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x2acc33ccb290>>, <Task finished coro=<Worker.ensure_computing() done, defined at /scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py:2525> exception=KeyError(('waiting', 'executing'))>)
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 741, in _run_callback
+    ret = callback()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 765, in _discard_future_result
+    future.result()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+distributed.worker - ERROR - ('waiting', 'executing')
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x2b26992acad0>>, <Task finished coro=<Worker.ensure_computing() done, defined at /scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py:2525> exception=KeyError(('waiting', 'executing'))>)
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 741, in _run_callback
+    ret = callback()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 765, in _discard_future_result
+    future.result()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+distributed.worker - ERROR - ('waiting', 'executing')
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x2adbc0798950>>, <Task finished coro=<Worker.ensure_computing() done, defined at /scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py:2525> exception=KeyError(('waiting', 'executing'))>)
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 741, in _run_callback
+    ret = callback()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 765, in _discard_future_result
+    future.result()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+distributed.worker - ERROR - ('waiting', 'executing')
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x2b4b95be9a10>>, <Task finished coro=<Worker.ensure_computing() done, defined at /scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py:2525> exception=KeyError(('waiting', 'executing'))>)
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 741, in _run_callback
+    ret = callback()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 765, in _discard_future_result
+    future.result()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x2b4b95be9a10>>, <Task finished coro=<Worker.heartbeat() done, defined at /scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py:936> exception=KeyError("('open_dataset-8372f9eb1451f270b681f6f9a9d1114cTEMP-9e211c064d16d57fb370569a25543bb3', 0, 0, 2, 0)")>)
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 741, in _run_callback
+    ret = callback()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 765, in _discard_future_result
+    future.result()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 949, in heartbeat
+    for key in self.active_threads.values()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/utils_comm.py", line 389, in retry_operation
+    operation=operation,
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/utils_comm.py", line 369, in retry
+    return await coro()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/core.py", line 861, in send_recv_from_rpc
+    result = await send_recv(comm=comm, op=key, **kwargs)
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/core.py", line 660, in send_recv
+    raise exc.with_traceback(tb)
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/core.py", line 496, in handle_comm
+    result = handler(comm, **msg)
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/scheduler.py", line 3654, in heartbeat_worker
+    parent._tasks[key]: duration for key, duration in executing.items()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/scheduler.py", line 3654, in <dictcomp>
+    parent._tasks[key]: duration for key, duration in executing.items()
+KeyError: "('open_dataset-8372f9eb1451f270b681f6f9a9d1114cTEMP-9e211c064d16d57fb370569a25543bb3', 0, 0, 2, 0)"
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x2b3d5d53cd10>>, <Task finished coro=<Worker.heartbeat() done, defined at /scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py:936> exception=KeyError("('open_dataset-8372f9eb1451f270b681f6f9a9d1114cSALT-d17125fc295d8bfffb5888e97dd31e5d', 0, 0, 3, 5)")>)
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 741, in _run_callback
+    ret = callback()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 765, in _discard_future_result
+    future.result()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 949, in heartbeat
+    for key in self.active_threads.values()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/utils_comm.py", line 389, in retry_operation
+    operation=operation,
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/utils_comm.py", line 369, in retry
+    return await coro()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/core.py", line 861, in send_recv_from_rpc
+    result = await send_recv(comm=comm, op=key, **kwargs)
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/core.py", line 660, in send_recv
+    raise exc.with_traceback(tb)
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/core.py", line 496, in handle_comm
+    result = handler(comm, **msg)
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/scheduler.py", line 3654, in heartbeat_worker
+    parent._tasks[key]: duration for key, duration in executing.items()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/scheduler.py", line 3654, in <dictcomp>
+    parent._tasks[key]: duration for key, duration in executing.items()
+KeyError: "('open_dataset-8372f9eb1451f270b681f6f9a9d1114cSALT-d17125fc295d8bfffb5888e97dd31e5d', 0, 0, 3, 5)"
+distributed.worker - ERROR - ('waiting', 'executing')
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+distributed.worker - INFO - Can't find dependencies for key ('compute_eos-compute_eos_0-0f5e0e5198df72ddf1414032479ef1e8', 0, 0, 0, 8)
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x2b3d5d53cd10>>, <Task finished coro=<Worker.ensure_computing() done, defined at /scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py:2525> exception=KeyError(('waiting', 'executing'))>)
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 741, in _run_callback
+    ret = callback()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 765, in _discard_future_result
+    future.result()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+distributed.worker - INFO - Can't find dependencies for key ('compute_eos-compute_eos_0-0f5e0e5198df72ddf1414032479ef1e8', 0, 0, 0, 8)
+distributed.worker - INFO - Dependent not found: ('xarray-<this-array>-1574f27c77c3128a09e41b457da8de6a', 0, 0, 0, 8) 0 .  Asking scheduler
+distributed.worker - INFO - Dependent not found: ('open_dataset-8372f9eb1451f270b681f6f9a9d1114cTEMP-9e211c064d16d57fb370569a25543bb3', 0, 0, 0, 8) 0 .  Asking scheduler
+distributed.worker - INFO - Can't find dependencies for key ('compute_eos-compute_eos_0-0f5e0e5198df72ddf1414032479ef1e8', 0, 0, 1, 2)
+distributed.worker - INFO - Dependent not found: ('open_dataset-8372f9eb1451f270b681f6f9a9d1114cSALT-d17125fc295d8bfffb5888e97dd31e5d', 0, 0, 1, 2) 0 .  Asking scheduler
+distributed.worker - INFO - Can't find dependencies for key ('compute_eos-compute_eos_0-0f5e0e5198df72ddf1414032479ef1e8', 0, 0, 1, 2)
+distributed.worker - INFO - Dependent not found: ('xarray-<this-array>-1574f27c77c3128a09e41b457da8de6a', 0, 0, 1, 2) 0 .  Asking scheduler
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x2acc33ccb290>>, <Task finished coro=<Worker.heartbeat() done, defined at /scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py:936> exception=KeyError("('open_dataset-8372f9eb1451f270b681f6f9a9d1114cTEMP-9e211c064d16d57fb370569a25543bb3', 0, 0, 0, 10)")>)
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 741, in _run_callback
+    ret = callback()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 765, in _discard_future_result
+    future.result()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 949, in heartbeat
+    for key in self.active_threads.values()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/utils_comm.py", line 389, in retry_operation
+    operation=operation,
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/utils_comm.py", line 369, in retry
+    return await coro()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/core.py", line 861, in send_recv_from_rpc
+    result = await send_recv(comm=comm, op=key, **kwargs)
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/core.py", line 660, in send_recv
+    raise exc.with_traceback(tb)
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/core.py", line 496, in handle_comm
+    result = handler(comm, **msg)
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/scheduler.py", line 3654, in heartbeat_worker
+    parent._tasks[key]: duration for key, duration in executing.items()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/scheduler.py", line 3654, in <dictcomp>
+    parent._tasks[key]: duration for key, duration in executing.items()
+KeyError: "('open_dataset-8372f9eb1451f270b681f6f9a9d1114cTEMP-9e211c064d16d57fb370569a25543bb3', 0, 0, 0, 10)"
+distributed.worker - ERROR - ('waiting', 'executing')
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x2b4b95be9a10>>, <Task finished coro=<Worker.ensure_computing() done, defined at /scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py:2525> exception=KeyError(('waiting', 'executing'))>)
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 741, in _run_callback
+    ret = callback()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 765, in _discard_future_result
+    future.result()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+distributed.worker - INFO - Can't find dependencies for key ('compute_eos-compute_eos_0-0f5e0e5198df72ddf1414032479ef1e8', 0, 0, 0, 4)
+distributed.worker - INFO - Dependent not found: ('open_dataset-8372f9eb1451f270b681f6f9a9d1114cTEMP-9e211c064d16d57fb370569a25543bb3', 0, 0, 0, 4) 0 .  Asking scheduler
+distributed.worker - INFO - Can't find dependencies for key ('compute_eos-compute_eos_0-0f5e0e5198df72ddf1414032479ef1e8', 0, 0, 0, 4)
+distributed.worker - INFO - Dependent not found: ('open_dataset-8372f9eb1451f270b681f6f9a9d1114cSALT-d17125fc295d8bfffb5888e97dd31e5d', 0, 0, 0, 4) 0 .  Asking scheduler
+distributed.worker - ERROR - ('waiting', 'executing')
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x2af884dd6650>>, <Task finished coro=<Worker.ensure_computing() done, defined at /scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py:2525> exception=KeyError(('waiting', 'executing'))>)
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 741, in _run_callback
+    ret = callback()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 765, in _discard_future_result
+    future.result()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 2561, in ensure_computing
+    self.transition(ts, "executing")
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 1553, in transition
+    func = self._transitions[start, finish]
+KeyError: ('waiting', 'executing')
+distributed.utils_perf - INFO - full garbage collection released 124.64 MB from 21593 reference cycles (threshold: 10.00 MB)
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Stopping worker at tcp://10.73.1.241:40821
+distributed.worker - INFO - Stopping worker at tcp://10.73.1.241:37738
+distributed.worker - INFO - Stopping worker at tcp://10.73.1.241:34288
+distributed.worker - INFO - Stopping worker at tcp://10.73.1.241:37193
+distributed.worker - INFO - Stopping worker at tcp://10.73.1.241:43388
+distributed.worker - INFO - Stopping worker at tcp://10.73.1.241:44495
+distributed.worker - INFO - Stopping worker at tcp://10.73.1.241:44735
+distributed.worker - INFO - Stopping worker at tcp://10.73.1.241:44583
+distributed.worker - INFO - Stopping worker at tcp://10.73.1.241:38789
+distributed.worker - INFO - Stopping worker at tcp://10.73.1.241:43806
+distributed.worker - INFO - Stopping worker at tcp://10.73.1.241:38081
+distributed.worker - INFO - Stopping worker at tcp://10.73.1.241:32832
+distributed.worker - INFO - Stopping worker at tcp://10.73.1.241:36837
+distributed.worker - INFO - Stopping worker at tcp://10.73.1.241:38197
+distributed.worker - INFO - Stopping worker at tcp://10.73.1.241:38167
+distributed.worker - INFO - Stopping worker at tcp://10.73.1.241:43452
+distributed.nanny - INFO - Worker closed
+distributed.client - ERROR - Failed to reconnect to scheduler after 10.00 seconds, closing client
+distributed.client - ERROR - Failed to reconnect to scheduler after 10.00 seconds, closing client
+distributed.client - ERROR - Failed to reconnect to scheduler after 10.00 seconds, closing client
+distributed.client - ERROR - Failed to reconnect to scheduler after 10.00 seconds, closing client
+distributed.client - ERROR - Failed to reconnect to scheduler after 10.00 seconds, closing client
+distributed.client - ERROR - Failed to reconnect to scheduler after 10.00 seconds, closing client
+distributed.client - ERROR - Failed to reconnect to scheduler after 10.00 seconds, closing client
+distributed.client - ERROR - Failed to reconnect to scheduler after 10.00 seconds, closing client
+distributed.client - ERROR - Failed to reconnect to scheduler after 10.00 seconds, closing client
+distributed.client - ERROR - Failed to reconnect to scheduler after 10.00 seconds, closing client
+distributed.client - ERROR - Failed to reconnect to scheduler after 10.00 seconds, closing client
+distributed.client - ERROR - Failed to reconnect to scheduler after 10.00 seconds, closing client
+distributed.client - ERROR - Failed to reconnect to scheduler after 10.00 seconds, closing client
+distributed.client - ERROR - Failed to reconnect to scheduler after 10.00 seconds, closing client
+distributed.client - ERROR - Failed to reconnect to scheduler after 10.00 seconds, closing client
+distributed.nanny - INFO - Worker closed
+distributed.nanny - INFO - Worker closed
+distributed.nanny - INFO - Worker closed
+distributed.nanny - INFO - Worker closed
+distributed.nanny - INFO - Worker closed
+distributed.nanny - INFO - Worker closed
+distributed.nanny - INFO - Worker closed
+distributed.nanny - INFO - Worker closed
+distributed.nanny - INFO - Worker closed
+distributed.nanny - INFO - Worker closed
+distributed.nanny - INFO - Worker closed
+distributed.nanny - INFO - Worker closed
+distributed.nanny - INFO - Worker closed
+distributed.nanny - INFO - Worker closed
+distributed.nanny - INFO - Worker closed
+/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/client.py:4717: RuntimeWarning: coroutine 'wait_for' was never awaited
+  c.close(timeout=3)
+/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/client.py:4717: RuntimeWarning: coroutine 'Client._close' was never awaited
+  c.close(timeout=3)
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.73.1.241:38126'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.73.1.241:39358'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.73.1.241:34702'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.73.1.241:42347'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.73.1.241:34826'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.73.1.241:38323'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.73.1.241:38762'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.73.1.241:40891'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.73.1.241:35290'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.73.1.241:40855'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.73.1.241:33472'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.73.1.241:46016'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.73.1.241:34959'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.73.1.241:36064'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.73.1.241:33396'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.73.1.241:41067'
+distributed.dask_worker - INFO - End worker

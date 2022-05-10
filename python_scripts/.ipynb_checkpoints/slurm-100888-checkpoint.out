@@ -1,0 +1,425 @@
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.73.1.242:45965'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.73.1.242:43377'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.73.1.242:46016'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.73.1.242:39563'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.73.1.242:46741'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.73.1.242:42075'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.73.1.242:34836'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.73.1.242:35627'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.73.1.242:36184'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.73.1.242:44292'
+distributed.worker - INFO -       Start worker at:    tcp://10.73.1.242:39453
+distributed.worker - INFO -          Listening to:    tcp://10.73.1.242:39453
+distributed.worker - INFO -          dashboard at:          10.73.1.242:35170
+distributed.worker - INFO - Waiting to connect to:    tcp://10.73.1.242:46329
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                   21.00 GB
+distributed.worker - INFO -       Local Directory: /scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-o121c0t3
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:    tcp://10.73.1.242:40197
+distributed.worker - INFO -          Listening to:    tcp://10.73.1.242:40197
+distributed.worker - INFO -          dashboard at:          10.73.1.242:38180
+distributed.worker - INFO - Waiting to connect to:    tcp://10.73.1.242:46329
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                   21.00 GB
+distributed.worker - INFO -       Local Directory: /scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-jxz4wjek
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:    tcp://10.73.1.242:38935
+distributed.worker - INFO -          Listening to:    tcp://10.73.1.242:38935
+distributed.worker - INFO -          dashboard at:          10.73.1.242:34459
+distributed.worker - INFO - Waiting to connect to:    tcp://10.73.1.242:46329
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                   21.00 GB
+distributed.worker - INFO -       Local Directory: /scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-60tjuem8
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:    tcp://10.73.1.242:46329
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -       Start worker at:    tcp://10.73.1.242:35629
+distributed.worker - INFO -          Listening to:    tcp://10.73.1.242:35629
+distributed.worker - INFO -          dashboard at:          10.73.1.242:35567
+distributed.worker - INFO - Waiting to connect to:    tcp://10.73.1.242:46329
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                   21.00 GB
+distributed.worker - INFO -       Local Directory: /scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-ii18o234
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:    tcp://10.73.1.242:46329
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:    tcp://10.73.1.242:46329
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:    tcp://10.73.1.242:46329
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -       Start worker at:    tcp://10.73.1.242:35213
+distributed.worker - INFO -          Listening to:    tcp://10.73.1.242:35213
+distributed.worker - INFO -          dashboard at:          10.73.1.242:43787
+distributed.worker - INFO - Waiting to connect to:    tcp://10.73.1.242:46329
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                   21.00 GB
+distributed.worker - INFO -       Local Directory: /scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-4un72nc5
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:    tcp://10.73.1.242:35082
+distributed.worker - INFO -          Listening to:    tcp://10.73.1.242:35082
+distributed.worker - INFO -          dashboard at:          10.73.1.242:37216
+distributed.worker - INFO - Waiting to connect to:    tcp://10.73.1.242:46329
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                   21.00 GB
+distributed.worker - INFO -       Local Directory: /scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-6n9odv8b
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:    tcp://10.73.1.242:46877
+distributed.worker - INFO -          Listening to:    tcp://10.73.1.242:46877
+distributed.worker - INFO -          dashboard at:          10.73.1.242:44809
+distributed.worker - INFO - Waiting to connect to:    tcp://10.73.1.242:46329
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                   21.00 GB
+distributed.worker - INFO -       Local Directory: /scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-8smuiraf
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:    tcp://10.73.1.242:39154
+distributed.worker - INFO -          Listening to:    tcp://10.73.1.242:39154
+distributed.worker - INFO -          dashboard at:          10.73.1.242:35286
+distributed.worker - INFO - Waiting to connect to:    tcp://10.73.1.242:46329
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                   21.00 GB
+distributed.worker - INFO -       Local Directory: /scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-toz93lwh
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:    tcp://10.73.1.242:32950
+distributed.worker - INFO -          Listening to:    tcp://10.73.1.242:32950
+distributed.worker - INFO -          dashboard at:          10.73.1.242:34181
+distributed.worker - INFO -       Start worker at:    tcp://10.73.1.242:35719
+distributed.worker - INFO - Waiting to connect to:    tcp://10.73.1.242:46329
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -          Listening to:    tcp://10.73.1.242:35719
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                   21.00 GB
+distributed.worker - INFO -          dashboard at:          10.73.1.242:45247
+distributed.worker - INFO -       Local Directory: /scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-x0bzh0e6
+distributed.worker - INFO - Waiting to connect to:    tcp://10.73.1.242:46329
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                   21.00 GB
+distributed.worker - INFO -       Local Directory: /scratch/user/dapengli/Projects4iHESP/Project_SeaLevelUSEastCoast_2021Mar30/python_scripts/dask-worker-space/worker-_xzrgf5m
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:    tcp://10.73.1.242:46329
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:    tcp://10.73.1.242:46329
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:    tcp://10.73.1.242:46329
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:    tcp://10.73.1.242:46329
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:    tcp://10.73.1.242:46329
+distributed.worker - INFO -         Registered to:    tcp://10.73.1.242:46329
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.core - INFO - Starting established connection
+/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/dask/array/numpy_compat.py:40: RuntimeWarning: invalid value encountered in true_divide
+  x = np.divide(x1, x2, out)
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x2b32e1fe1090>>, <Task finished coro=<Worker.heartbeat() done, defined at /scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py:936> exception=KeyError("('open_dataset-concatenate-6f83b1aa67a63c315398a588f7d0ddf2', 125, 0, 0, 0)")>)
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 741, in _run_callback
+    ret = callback()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 765, in _discard_future_result
+    future.result()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 949, in heartbeat
+    for key in self.active_threads.values()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/utils_comm.py", line 389, in retry_operation
+    operation=operation,
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/utils_comm.py", line 369, in retry
+    return await coro()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/core.py", line 861, in send_recv_from_rpc
+    result = await send_recv(comm=comm, op=key, **kwargs)
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/core.py", line 660, in send_recv
+    raise exc.with_traceback(tb)
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/core.py", line 496, in handle_comm
+    result = handler(comm, **msg)
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/scheduler.py", line 3654, in heartbeat_worker
+    parent._tasks[key]: duration for key, duration in executing.items()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/scheduler.py", line 3654, in <dictcomp>
+    parent._tasks[key]: duration for key, duration in executing.items()
+KeyError: "('open_dataset-concatenate-6f83b1aa67a63c315398a588f7d0ddf2', 125, 0, 0, 0)"
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x2ae872b0f350>>, <Task finished coro=<Worker.heartbeat() done, defined at /scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py:936> exception=KeyError("('open_dataset-concatenate-6f83b1aa67a63c315398a588f7d0ddf2', 112, 0, 0, 0)")>)
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 741, in _run_callback
+    ret = callback()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 765, in _discard_future_result
+    future.result()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 949, in heartbeat
+    for key in self.active_threads.values()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/utils_comm.py", line 389, in retry_operation
+    operation=operation,
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/utils_comm.py", line 369, in retry
+    return await coro()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/core.py", line 861, in send_recv_from_rpc
+    result = await send_recv(comm=comm, op=key, **kwargs)
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/core.py", line 660, in send_recv
+    raise exc.with_traceback(tb)
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/core.py", line 496, in handle_comm
+    result = handler(comm, **msg)
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/scheduler.py", line 3654, in heartbeat_worker
+    parent._tasks[key]: duration for key, duration in executing.items()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/scheduler.py", line 3654, in <dictcomp>
+    parent._tasks[key]: duration for key, duration in executing.items()
+KeyError: "('open_dataset-concatenate-6f83b1aa67a63c315398a588f7d0ddf2', 112, 0, 0, 0)"
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x2b629ec21550>>, <Task finished coro=<Worker.heartbeat() done, defined at /scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py:936> exception=KeyError("('open_dataset-concatenate-6f83b1aa67a63c315398a588f7d0ddf2', 123, 0, 0, 0)")>)
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 741, in _run_callback
+    ret = callback()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 765, in _discard_future_result
+    future.result()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 949, in heartbeat
+    for key in self.active_threads.values()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/utils_comm.py", line 389, in retry_operation
+    operation=operation,
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/utils_comm.py", line 369, in retry
+    return await coro()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/core.py", line 861, in send_recv_from_rpc
+    result = await send_recv(comm=comm, op=key, **kwargs)
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/core.py", line 660, in send_recv
+    raise exc.with_traceback(tb)
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/core.py", line 496, in handle_comm
+    result = handler(comm, **msg)
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/scheduler.py", line 3654, in heartbeat_worker
+    parent._tasks[key]: duration for key, duration in executing.items()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/scheduler.py", line 3654, in <dictcomp>
+    parent._tasks[key]: duration for key, duration in executing.items()
+KeyError: "('open_dataset-concatenate-6f83b1aa67a63c315398a588f7d0ddf2', 123, 0, 0, 0)"
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x2b3684c44450>>, <Task finished coro=<Worker.heartbeat() done, defined at /scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py:936> exception=KeyError("('mean_combine-partial-7a7a39c6cbeae0a684de6ab4453d0288', 4, 0, 0, 0)")>)
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 741, in _run_callback
+    ret = callback()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 765, in _discard_future_result
+    future.result()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 949, in heartbeat
+    for key in self.active_threads.values()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/utils_comm.py", line 389, in retry_operation
+    operation=operation,
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/utils_comm.py", line 369, in retry
+    return await coro()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/core.py", line 861, in send_recv_from_rpc
+    result = await send_recv(comm=comm, op=key, **kwargs)
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/core.py", line 660, in send_recv
+    raise exc.with_traceback(tb)
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/core.py", line 496, in handle_comm
+    result = handler(comm, **msg)
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/scheduler.py", line 3654, in heartbeat_worker
+    parent._tasks[key]: duration for key, duration in executing.items()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/scheduler.py", line 3654, in <dictcomp>
+    parent._tasks[key]: duration for key, duration in executing.items()
+KeyError: "('mean_combine-partial-7a7a39c6cbeae0a684de6ab4453d0288', 4, 0, 0, 0)"
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x2b83a5263410>>, <Task finished coro=<Worker.heartbeat() done, defined at /scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py:936> exception=KeyError("('open_dataset-concatenate-6f83b1aa67a63c315398a588f7d0ddf2', 117, 0, 0, 0)")>)
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 741, in _run_callback
+    ret = callback()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 765, in _discard_future_result
+    future.result()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 949, in heartbeat
+    for key in self.active_threads.values()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/utils_comm.py", line 389, in retry_operation
+    operation=operation,
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/utils_comm.py", line 369, in retry
+    return await coro()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/core.py", line 861, in send_recv_from_rpc
+    result = await send_recv(comm=comm, op=key, **kwargs)
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/core.py", line 660, in send_recv
+    raise exc.with_traceback(tb)
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/core.py", line 496, in handle_comm
+    result = handler(comm, **msg)
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/scheduler.py", line 3654, in heartbeat_worker
+    parent._tasks[key]: duration for key, duration in executing.items()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/scheduler.py", line 3654, in <dictcomp>
+    parent._tasks[key]: duration for key, duration in executing.items()
+KeyError: "('open_dataset-concatenate-6f83b1aa67a63c315398a588f7d0ddf2', 117, 0, 0, 0)"
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x2ae798a98450>>, <Task finished coro=<Worker.heartbeat() done, defined at /scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py:936> exception=KeyError("('open_dataset-concatenate-6f83b1aa67a63c315398a588f7d0ddf2', 172, 0, 0, 0)")>)
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 741, in _run_callback
+    ret = callback()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 765, in _discard_future_result
+    future.result()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 949, in heartbeat
+    for key in self.active_threads.values()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/utils_comm.py", line 389, in retry_operation
+    operation=operation,
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/utils_comm.py", line 369, in retry
+    return await coro()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/core.py", line 861, in send_recv_from_rpc
+    result = await send_recv(comm=comm, op=key, **kwargs)
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/core.py", line 660, in send_recv
+    raise exc.with_traceback(tb)
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/core.py", line 496, in handle_comm
+    result = handler(comm, **msg)
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/scheduler.py", line 3654, in heartbeat_worker
+    parent._tasks[key]: duration for key, duration in executing.items()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/scheduler.py", line 3654, in <dictcomp>
+    parent._tasks[key]: duration for key, duration in executing.items()
+KeyError: "('open_dataset-concatenate-6f83b1aa67a63c315398a588f7d0ddf2', 172, 0, 0, 0)"
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x2baa83070050>>, <Task finished coro=<Worker.heartbeat() done, defined at /scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py:936> exception=KeyError("('mean_chunk-5979f532bcd05288e69110fbe10832ca', 109, 0, 0, 0)")>)
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 741, in _run_callback
+    ret = callback()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 765, in _discard_future_result
+    future.result()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 949, in heartbeat
+    for key in self.active_threads.values()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/utils_comm.py", line 389, in retry_operation
+    operation=operation,
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/utils_comm.py", line 369, in retry
+    return await coro()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/core.py", line 861, in send_recv_from_rpc
+    result = await send_recv(comm=comm, op=key, **kwargs)
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/core.py", line 660, in send_recv
+    raise exc.with_traceback(tb)
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/core.py", line 496, in handle_comm
+    result = handler(comm, **msg)
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/scheduler.py", line 3654, in heartbeat_worker
+    parent._tasks[key]: duration for key, duration in executing.items()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/scheduler.py", line 3654, in <dictcomp>
+    parent._tasks[key]: duration for key, duration in executing.items()
+KeyError: "('mean_chunk-5979f532bcd05288e69110fbe10832ca', 109, 0, 0, 0)"
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x2af7b642a4d0>>, <Task finished coro=<Worker.heartbeat() done, defined at /scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py:936> exception=KeyError("('open_dataset-concatenate-6f83b1aa67a63c315398a588f7d0ddf2', 124, 0, 0, 0)")>)
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 741, in _run_callback
+    ret = callback()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 765, in _discard_future_result
+    future.result()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 949, in heartbeat
+    for key in self.active_threads.values()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/utils_comm.py", line 389, in retry_operation
+    operation=operation,
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/utils_comm.py", line 369, in retry
+    return await coro()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/core.py", line 861, in send_recv_from_rpc
+    result = await send_recv(comm=comm, op=key, **kwargs)
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/core.py", line 660, in send_recv
+    raise exc.with_traceback(tb)
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/core.py", line 496, in handle_comm
+    result = handler(comm, **msg)
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/scheduler.py", line 3654, in heartbeat_worker
+    parent._tasks[key]: duration for key, duration in executing.items()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/scheduler.py", line 3654, in <dictcomp>
+    parent._tasks[key]: duration for key, duration in executing.items()
+KeyError: "('open_dataset-concatenate-6f83b1aa67a63c315398a588f7d0ddf2', 124, 0, 0, 0)"
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x2b6dd96d9450>>, <Task finished coro=<Worker.heartbeat() done, defined at /scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py:936> exception=KeyError("('open_dataset-concatenate-6f83b1aa67a63c315398a588f7d0ddf2', 108, 0, 0, 0)")>)
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 741, in _run_callback
+    ret = callback()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 765, in _discard_future_result
+    future.result()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 949, in heartbeat
+    for key in self.active_threads.values()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/utils_comm.py", line 389, in retry_operation
+    operation=operation,
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/utils_comm.py", line 369, in retry
+    return await coro()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/core.py", line 861, in send_recv_from_rpc
+    result = await send_recv(comm=comm, op=key, **kwargs)
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/core.py", line 660, in send_recv
+    raise exc.with_traceback(tb)
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/core.py", line 496, in handle_comm
+    result = handler(comm, **msg)
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/scheduler.py", line 3654, in heartbeat_worker
+    parent._tasks[key]: duration for key, duration in executing.items()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/scheduler.py", line 3654, in <dictcomp>
+    parent._tasks[key]: duration for key, duration in executing.items()
+KeyError: "('open_dataset-concatenate-6f83b1aa67a63c315398a588f7d0ddf2', 108, 0, 0, 0)"
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x2b7a29e71510>>, <Task finished coro=<Worker.heartbeat() done, defined at /scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py:936> exception=KeyError("('open_dataset-concatenate-6f83b1aa67a63c315398a588f7d0ddf2', 163, 0, 0, 0)")>)
+Traceback (most recent call last):
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 741, in _run_callback
+    ret = callback()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/ioloop.py", line 765, in _discard_future_result
+    future.result()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/worker.py", line 949, in heartbeat
+    for key in self.active_threads.values()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/utils_comm.py", line 389, in retry_operation
+    operation=operation,
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/utils_comm.py", line 369, in retry
+    return await coro()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/core.py", line 861, in send_recv_from_rpc
+    result = await send_recv(comm=comm, op=key, **kwargs)
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/core.py", line 660, in send_recv
+    raise exc.with_traceback(tb)
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/core.py", line 496, in handle_comm
+    result = handler(comm, **msg)
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/scheduler.py", line 3654, in heartbeat_worker
+    parent._tasks[key]: duration for key, duration in executing.items()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/scheduler.py", line 3654, in <dictcomp>
+    parent._tasks[key]: duration for key, duration in executing.items()
+KeyError: "('open_dataset-concatenate-6f83b1aa67a63c315398a588f7d0ddf2', 163, 0, 0, 0)"
+/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/dask/array/numpy_compat.py:40: RuntimeWarning: invalid value encountered in true_divide
+  x = np.divide(x1, x2, out)
+/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/dask/array/numpy_compat.py:40: RuntimeWarning: invalid value encountered in true_divide
+  x = np.divide(x1, x2, out)
+/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/dask/array/numpy_compat.py:40: RuntimeWarning: invalid value encountered in true_divide
+  x = np.divide(x1, x2, out)
+/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/dask/array/numpy_compat.py:40: RuntimeWarning: invalid value encountered in true_divide
+  x = np.divide(x1, x2, out)
+/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/dask/array/numpy_compat.py:40: RuntimeWarning: invalid value encountered in true_divide
+  x = np.divide(x1, x2, out)
+/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/dask/array/numpy_compat.py:40: RuntimeWarning: invalid value encountered in true_divide
+  x = np.divide(x1, x2, out)
+/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/dask/array/numpy_compat.py:40: RuntimeWarning: invalid value encountered in true_divide
+  x = np.divide(x1, x2, out)
+/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/dask/array/numpy_compat.py:40: RuntimeWarning: invalid value encountered in true_divide
+  x = np.divide(x1, x2, out)
+/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/dask/array/numpy_compat.py:40: RuntimeWarning: invalid value encountered in true_divide
+  x = np.divide(x1, x2, out)
+distributed.core - INFO - Event loop was unresponsive in Worker for 3.51s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 4.43s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 6.00s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.utils_perf - INFO - full garbage collection released 117.60 MB from 2564 reference cycles (threshold: 10.00 MB)
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Stopping worker at tcp://10.73.1.242:35082
+distributed.worker - INFO - Stopping worker at tcp://10.73.1.242:40197
+distributed.worker - INFO - Stopping worker at tcp://10.73.1.242:35629
+distributed.worker - INFO - Stopping worker at tcp://10.73.1.242:32950
+distributed.worker - INFO - Stopping worker at tcp://10.73.1.242:39453
+distributed.worker - INFO - Stopping worker at tcp://10.73.1.242:35213
+distributed.worker - INFO - Stopping worker at tcp://10.73.1.242:39154
+distributed.worker - INFO - Stopping worker at tcp://10.73.1.242:46877
+distributed.worker - INFO - Stopping worker at tcp://10.73.1.242:35719
+distributed.worker - INFO - Stopping worker at tcp://10.73.1.242:38935
+distributed.nanny - INFO - Worker closed
+distributed.nanny - INFO - Worker closed
+distributed.nanny - INFO - Worker closed
+distributed.nanny - INFO - Worker closed
+distributed.nanny - INFO - Worker closed
+distributed.nanny - INFO - Worker closed
+distributed.nanny - INFO - Worker closed
+distributed.nanny - INFO - Worker closed
+distributed.nanny - INFO - Worker closed
+distributed.nanny - INFO - Worker closed
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.73.1.242:44292'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.73.1.242:46016'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.73.1.242:34836'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.73.1.242:43377'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.73.1.242:36184'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.73.1.242:35627'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.73.1.242:42075'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.73.1.242:39563'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.73.1.242:46741'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.73.1.242:45965'
+distributed.dask_worker - INFO - End worker

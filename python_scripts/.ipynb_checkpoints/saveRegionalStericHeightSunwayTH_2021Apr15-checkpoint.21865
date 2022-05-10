@@ -1,0 +1,189 @@
+/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/dask/array/core.py:4299: PerformanceWarning: Increasing number of chunks by factor of 12
+  **blockwise_kwargs,
+/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/dask/array/core.py:4299: PerformanceWarning: Increasing number of chunks by factor of 12
+  **blockwise_kwargs,
+/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/xarray/core/indexing.py:1369: PerformanceWarning: Slicing is producing a large chunk. To accept the large
+chunk and silence this warning, set the option
+    >>> with dask.config.set(**{'array.slicing.split_large_chunks': False}):
+    ...     array[indexer]
+
+To avoid creating the large chunks, set the option
+    >>> with dask.config.set(**{'array.slicing.split_large_chunks': True}):
+    ...     array[indexer]
+  return self.array[key]
+/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/xarray/core/indexing.py:1369: PerformanceWarning: Slicing is producing a large chunk. To accept the large
+chunk and silence this warning, set the option
+    >>> with dask.config.set(**{'array.slicing.split_large_chunks': False}):
+    ...     array[indexer]
+
+To avoid creating the large chunks, set the option
+    >>> with dask.config.set(**{'array.slicing.split_large_chunks': True}):
+    ...     array[indexer]
+  return self.array[key]
+/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/dask/array/core.py:4299: PerformanceWarning: Increasing number of chunks by factor of 12
+  **blockwise_kwargs,
+/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/dask/array/core.py:4299: PerformanceWarning: Increasing number of chunks by factor of 12
+  **blockwise_kwargs,
+/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/xarray/core/indexing.py:1369: PerformanceWarning: Slicing is producing a large chunk. To accept the large
+chunk and silence this warning, set the option
+    >>> with dask.config.set(**{'array.slicing.split_large_chunks': False}):
+    ...     array[indexer]
+
+To avoid creating the large chunks, set the option
+    >>> with dask.config.set(**{'array.slicing.split_large_chunks': True}):
+    ...     array[indexer]
+  return self.array[key]
+/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/xarray/core/indexing.py:1369: PerformanceWarning: Slicing is producing a large chunk. To accept the large
+chunk and silence this warning, set the option
+    >>> with dask.config.set(**{'array.slicing.split_large_chunks': False}):
+    ...     array[indexer]
+
+To avoid creating the large chunks, set the option
+    >>> with dask.config.set(**{'array.slicing.split_large_chunks': True}):
+    ...     array[indexer]
+  return self.array[key]
+/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/dask/array/core.py:4299: PerformanceWarning: Increasing number of chunks by factor of 12
+  **blockwise_kwargs,
+/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/dask/array/core.py:4299: PerformanceWarning: Increasing number of chunks by factor of 12
+  **blockwise_kwargs,
+/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/xarray/core/indexing.py:1369: PerformanceWarning: Slicing is producing a large chunk. To accept the large
+chunk and silence this warning, set the option
+    >>> with dask.config.set(**{'array.slicing.split_large_chunks': False}):
+    ...     array[indexer]
+
+To avoid creating the large chunks, set the option
+    >>> with dask.config.set(**{'array.slicing.split_large_chunks': True}):
+    ...     array[indexer]
+  return self.array[key]
+/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/xarray/core/indexing.py:1369: PerformanceWarning: Slicing is producing a large chunk. To accept the large
+chunk and silence this warning, set the option
+    >>> with dask.config.set(**{'array.slicing.split_large_chunks': False}):
+    ...     array[indexer]
+
+To avoid creating the large chunks, set the option
+    >>> with dask.config.set(**{'array.slicing.split_large_chunks': True}):
+    ...     array[indexer]
+  return self.array[key]
+#!/usr/bin/env bash
+
+#SBATCH -J dask-worker
+#SBATCH -n 1
+#SBATCH --cpus-per-task=32
+#SBATCH --mem=123G
+#SBATCH -t 17:00:00
+
+/scratch/group/ihesp/shared/conda/envs/envMar25/bin/python -m distributed.cli.dask_worker tcp://10.73.1.121:33464 --nthreads 2 --nprocs 16 --memory-limit 8.25GB --name dummy-name --nanny --death-timeout 60 --protocol tcp://
+
+working on year 2006
+working on year 2007
+working on year 2008
+working on year 2009
+working on year 2010
+working on year 2011
+working on year 2012
+working on year 2013
+working on year 2014
+working on year 2015
+working on year 2016
+working on year 2017
+working on year 2018
+working on year 2019
+working on year 2020
+working on year 2021
+working on year 2022
+working on year 2023
+working on year 2024
+working on year 2025
+working on year 2026
+working on year 2027
+working on year 2028
+working on year 2029
+working on year 2030
+working on year 2031
+working on year 2032
+working on year 2033
+working on year 2034
+working on year 2035
+working on year 2036
+working on year 2037
+working on year 2038
+working on year 2039
+working on year 2040
+working on year 2041
+working on year 2042
+working on year 2043
+working on year 2044
+working on year 2045
+working on year 2046
+working on year 2047
+working on year 2048
+working on year 2049
+working on year 2050
+working on year 2051
+working on year 2052
+working on year 2053
+working on year 2054
+working on year 2055
+working on year 2056
+working on year 2057
+working on year 2058
+working on year 2059
+working on year 2060
+working on year 2061
+working on year 2062
+working on year 2063
+working on year 2064
+working on year 2065
+working on year 2066
+working on year 2067
+working on year 2068
+working on year 2069
+working on year 2070
+working on year 2071
+working on year 2072
+working on year 2073
+working on year 2074
+working on year 2075
+working on year 2076
+working on year 2077
+working on year 2078
+working on year 2079
+working on year 2080
+working on year 2081
+working on year 2082
+working on year 2083
+working on year 2084
+working on year 2085
+working on year 2086
+Traceback (most recent call last):
+  File "saveRegionalStericHeightSunwayTH_2021Apr15.py", line 77, in <module>
+    h_rst.to_netcdf(path=outfile, mode='w', format='NETCDF4', compute=True)
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/xarray/core/dataarray.py", line 2741, in to_netcdf
+    return dataset.to_netcdf(*args, **kwargs)
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/xarray/core/dataset.py", line 1699, in to_netcdf
+    invalid_netcdf=invalid_netcdf,
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/xarray/backends/api.py", line 1116, in to_netcdf
+    writes = writer.sync(compute=compute)
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/xarray/backends/common.py", line 162, in sync
+    regions=self.regions,
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/dask/array/core.py", line 1041, in store
+    result.compute(**kwargs)
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/dask/base.py", line 283, in compute
+    (result,) = compute(self, traverse=False, **kwargs)
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/dask/base.py", line 565, in compute
+    results = schedule(dsk, keys, **kwargs)
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/client.py", line 2654, in get
+    results = self.gather(packed, asynchronous=asynchronous, direct=direct)
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/client.py", line 1969, in gather
+    asynchronous=asynchronous,
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/client.py", line 838, in sync
+    self.loop, func, *args, callback_timeout=callback_timeout, **kwargs
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/utils.py", line 351, in sync
+    raise exc.with_traceback(tb)
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/utils.py", line 334, in f
+    result[0] = yield future
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/tornado/gen.py", line 762, in run
+    value = future.result()
+  File "/scratch/group/ihesp/shared/conda/envs/envMar25/lib/python3.7/site-packages/distributed/client.py", line 1828, in _gather
+    raise exception.with_traceback(traceback)
+distributed.scheduler.KilledWorker: ('open_dataset-956e08d93a4b8cca3e1f09e5cce1b151TEMP-4c3c7d99424cce618971794e89dfb624', <Worker 'tcp://10.73.3.169:40775', name: 0-8, memory: 0, processing: 21>)
